@@ -1,0 +1,4984 @@
+{
+    "markets": [
+        {
+            "id": 2721,
+            "name": "Which party will win the 2020 U.S. presidential election?",
+            "url": "https://www.predictit.org/markets/detail/2721/Which-party-will-win-the-2020-US-presidential-election",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 4390,
+                    "dateFound": "5/20/2019",
+                    "name": "Democratic"
+                },
+                {
+                    "id": 4389,
+                    "dateFound": "5/20/2019",
+                    "name": "Republican"
+                },
+                {
+                    "id": 4388,
+                    "dateFound": "5/20/2019",
+                    "name": "Libertarian"
+                },
+                {
+                    "id": 4391,
+                    "dateFound": "5/20/2019",
+                    "name": "Green"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 2747,
+            "name": "Will Mark Cuban run for president in 2020?",
+            "url": "https://www.predictit.org/markets/detail/2747/Will-Mark-Cuban-run-for-president-in-2020",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 4495,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Mark Cuban run for president in 2020?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 2875,
+            "name": "Will Andrew Cuomo run for president in 2020?",
+            "url": "https://www.predictit.org/markets/detail/2875/Will-Andrew-Cuomo-run-for-president-in-2020",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 5121,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Andrew Cuomo run for president in 2020?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 2901,
+            "name": "Will a woman be elected U.S. president in 2020?",
+            "url": "https://www.predictit.org/markets/detail/2901/Will-a-woman-be-elected-US-president-in-2020",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 5215,
+                    "dateFound": "5/20/2019",
+                    "name": "Will a woman be elected U.S. president in 2020?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 2902,
+            "name": "Will the 2020 Democratic nominee for president be a woman?",
+            "url": "https://www.predictit.org/markets/detail/2902/Will-the-2020-Democratic-nominee-for-president-be-a-woman",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 5216,
+                    "dateFound": "5/20/2019",
+                    "name": "Will the 2020 Democratic nominee for president be a woman?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 2903,
+            "name": "Will the 2020 Republican nominee for president be a woman?",
+            "url": "https://www.predictit.org/markets/detail/2903/Will-the-2020-Republican-nominee-for-president-be-a-woman",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 5217,
+                    "dateFound": "5/20/2019",
+                    "name": "Will the 2020 Republican nominee for president be a woman?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 2992,
+            "name": "Will Facebook's Mark Zuckerberg run for president in 2020?",
+            "url": "https://www.predictit.org/markets/detail/2992/Will-Facebook's-Mark-Zuckerberg-run-for-president-in-2020",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 5534,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Facebook's Mark Zuckerberg run for president in 2020?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 3041,
+            "name": "Will John Kasich run for president in 2020?",
+            "url": "https://www.predictit.org/markets/detail/3041/Will-John-Kasich-run-for-president-in-2020",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 5679,
+                    "dateFound": "5/20/2019",
+                    "name": "Will John Kasich run for president in 2020?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 3042,
+            "name": "Will Ted Cruz run for president in 2020?",
+            "url": "https://www.predictit.org/markets/detail/3042/Will-Ted-Cruz-run-for-president-in-2020",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 5680,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Ted Cruz run for president in 2020?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 3091,
+            "name": "Who will be the next Speaker of the British House of Commons?",
+            "url": "https://www.predictit.org/markets/detail/3091/Who-will-be-the-next-Speaker-of-the-British-House-of-Commons",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 5862,
+                    "dateFound": "5/20/2019",
+                    "name": "Lindsay Hoyle"
+                },
+                {
+                    "id": 5866,
+                    "dateFound": "5/20/2019",
+                    "name": "Eleanor Laing"
+                },
+                {
+                    "id": 5865,
+                    "dateFound": "5/20/2019",
+                    "name": "Charles Walker"
+                },
+                {
+                    "id": 5863,
+                    "dateFound": "5/20/2019",
+                    "name": "Jacob Rees-Mogg"
+                },
+                {
+                    "id": 5864,
+                    "dateFound": "5/20/2019",
+                    "name": "Chris Bryant"
+                },
+                {
+                    "id": 5867,
+                    "dateFound": "5/20/2019",
+                    "name": "Frank Field"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 3269,
+            "name": "Will Dwayne \"the Rock\" Johnson run for president in 2020?",
+            "url": "https://www.predictit.org/markets/detail/3269/Will-Dwayne-the-Rock-Johnson-run-for-president-in-2020",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 6492,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Dwayne \"the Rock\" Johnson run for president in 2020?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 3352,
+            "name": "Will Donald Trump be president at year-end 2019?",
+            "url": "https://www.predictit.org/markets/detail/3352/Will-Donald-Trump-be-president-at-year-end-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 6894,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Donald Trump be president at year-end 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 3390,
+            "name": "Will Donald Trump be the 2020 Republican nominee for president?",
+            "url": "https://www.predictit.org/markets/detail/3390/Will-Donald-Trump-be-the-2020-Republican-nominee-for-president",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 6994,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Donald Trump be the 2020 Republican nominee for president?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 3446,
+            "name": "Will Joe Scarborough run for president in 2020?",
+            "url": "https://www.predictit.org/markets/detail/3446/Will-Joe-Scarborough-run-for-president-in-2020",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 7154,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Joe Scarborough run for president in 2020?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 3537,
+            "name": "Will Donald Trump be impeached in his first term?",
+            "url": "https://www.predictit.org/markets/detail/3537/Will-Donald-Trump-be-impeached-in-his-first-term",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 7419,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Donald Trump be impeached in his first term?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 3611,
+            "name": "Will Tim Kaine run for president in 2020?",
+            "url": "https://www.predictit.org/markets/detail/3611/Will-Tim-Kaine-run-for-president-in-2020",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 7638,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Tim Kaine run for president in 2020?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 3618,
+            "name": "Will Paul Ryan run for president in 2020?",
+            "url": "https://www.predictit.org/markets/detail/3618/Will-Paul-Ryan-run-for-president-in-2020",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 7671,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Paul Ryan run for president in 2020?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 3619,
+            "name": "Will Mike Pence run for president in 2020?",
+            "url": "https://www.predictit.org/markets/detail/3619/Will-Mike-Pence-run-for-president-in-2020",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 7672,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Mike Pence run for president in 2020?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 3633,
+            "name": "Who will win the 2020 Democratic presidential nomination?",
+            "url": "https://www.predictit.org/markets/detail/3633/Who-will-win-the-2020-Democratic-presidential-nomination",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 7729,
+                    "dateFound": "5/20/2019",
+                    "name": "Joe Biden"
+                },
+                {
+                    "id": 7725,
+                    "dateFound": "5/20/2019",
+                    "name": "Bernie Sanders"
+                },
+                {
+                    "id": 14769,
+                    "dateFound": "5/20/2019",
+                    "name": "Pete Buttigieg"
+                },
+                {
+                    "id": 7727,
+                    "dateFound": "5/20/2019",
+                    "name": "Kamala Harris"
+                },
+                {
+                    "id": 7730,
+                    "dateFound": "5/20/2019",
+                    "name": "Elizabeth Warren"
+                },
+                {
+                    "id": 14670,
+                    "dateFound": "5/20/2019",
+                    "name": "Andrew Yang"
+                },
+                {
+                    "id": 13490,
+                    "dateFound": "5/20/2019",
+                    "name": "Beto O'Rourke"
+                },
+                {
+                    "id": 7726,
+                    "dateFound": "5/20/2019",
+                    "name": "Cory Booker"
+                },
+                {
+                    "id": 7734,
+                    "dateFound": "5/20/2019",
+                    "name": "Amy Klobuchar"
+                },
+                {
+                    "id": 14849,
+                    "dateFound": "5/20/2019",
+                    "name": "Tulsi Gabbard"
+                },
+                {
+                    "id": 13491,
+                    "dateFound": "5/20/2019",
+                    "name": "Hillary Clinton"
+                },
+                {
+                    "id": 7728,
+                    "dateFound": "5/20/2019",
+                    "name": "Kirsten Gillibrand"
+                },
+                {
+                    "id": 7731,
+                    "dateFound": "5/20/2019",
+                    "name": "Andrew Cuomo"
+                },
+                {
+                    "id": 7732,
+                    "dateFound": "5/20/2019",
+                    "name": "Mark Zuckerberg"
+                },
+                {
+                    "id": 7733,
+                    "dateFound": "5/20/2019",
+                    "name": "Tim Kaine"
+                },
+                {
+                    "id": 9088,
+                    "dateFound": "5/20/2019",
+                    "name": "Dwayne Johnson"
+                },
+                {
+                    "id": 9089,
+                    "dateFound": "5/20/2019",
+                    "name": "Jerry Brown"
+                },
+                {
+                    "id": 9090,
+                    "dateFound": "5/20/2019",
+                    "name": "Chris Murphy"
+                },
+                {
+                    "id": 9091,
+                    "dateFound": "5/20/2019",
+                    "name": "John Delaney"
+                },
+                {
+                    "id": 9188,
+                    "dateFound": "5/20/2019",
+                    "name": "Oprah Winfrey"
+                },
+                {
+                    "id": 13870,
+                    "dateFound": "5/20/2019",
+                    "name": "Sherrod Brown"
+                },
+                {
+                    "id": 13871,
+                    "dateFound": "5/20/2019",
+                    "name": "Mike Bloomberg"
+                },
+                {
+                    "id": 14848,
+                    "dateFound": "5/20/2019",
+                    "name": "Julián Castro"
+                },
+                {
+                    "id": 14850,
+                    "dateFound": "5/20/2019",
+                    "name": "John Hickenlooper"
+                },
+                {
+                    "id": 14851,
+                    "dateFound": "5/20/2019",
+                    "name": "Jay Inslee"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 3653,
+            "name": "Who will win the 2020 Republican presidential nomination?",
+            "url": "https://www.predictit.org/markets/detail/3653/Who-will-win-the-2020-Republican-presidential-nomination",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 7800,
+                    "dateFound": "5/20/2019",
+                    "name": "Donald Trump"
+                },
+                {
+                    "id": 7802,
+                    "dateFound": "5/20/2019",
+                    "name": "Mike Pence"
+                },
+                {
+                    "id": 7803,
+                    "dateFound": "5/20/2019",
+                    "name": "John Kasich"
+                },
+                {
+                    "id": 7795,
+                    "dateFound": "5/20/2019",
+                    "name": "Nikki Haley"
+                },
+                {
+                    "id": 14367,
+                    "dateFound": "5/20/2019",
+                    "name": "Bill Weld"
+                },
+                {
+                    "id": 7796,
+                    "dateFound": "5/20/2019",
+                    "name": "Tom Cotton"
+                },
+                {
+                    "id": 7797,
+                    "dateFound": "5/20/2019",
+                    "name": "Ben Sasse"
+                },
+                {
+                    "id": 7798,
+                    "dateFound": "5/20/2019",
+                    "name": "Ted Cruz"
+                },
+                {
+                    "id": 7799,
+                    "dateFound": "5/20/2019",
+                    "name": "Paul Ryan"
+                },
+                {
+                    "id": 7801,
+                    "dateFound": "5/20/2019",
+                    "name": "Rand Paul"
+                },
+                {
+                    "id": 7804,
+                    "dateFound": "5/20/2019",
+                    "name": "Marco Rubio"
+                },
+                {
+                    "id": 9092,
+                    "dateFound": "5/20/2019",
+                    "name": "Mark Cuban"
+                },
+                {
+                    "id": 9093,
+                    "dateFound": "5/20/2019",
+                    "name": "Mitt Romney"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 3698,
+            "name": "Who will win the 2020 U.S. presidential election?",
+            "url": "https://www.predictit.org/markets/detail/3698/Who-will-win-the-2020-US-presidential-election",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 7943,
+                    "dateFound": "5/20/2019",
+                    "name": "Donald Trump"
+                },
+                {
+                    "id": 7940,
+                    "dateFound": "5/20/2019",
+                    "name": "Joe Biden"
+                },
+                {
+                    "id": 7941,
+                    "dateFound": "5/20/2019",
+                    "name": "Bernie Sanders"
+                },
+                {
+                    "id": 7936,
+                    "dateFound": "5/20/2019",
+                    "name": "Kamala Harris"
+                },
+                {
+                    "id": 14846,
+                    "dateFound": "5/20/2019",
+                    "name": "Pete Buttigieg"
+                },
+                {
+                    "id": 14838,
+                    "dateFound": "5/20/2019",
+                    "name": "Andrew Yang"
+                },
+                {
+                    "id": 7937,
+                    "dateFound": "5/20/2019",
+                    "name": "Elizabeth Warren"
+                },
+                {
+                    "id": 7938,
+                    "dateFound": "5/20/2019",
+                    "name": "Cory Booker"
+                },
+                {
+                    "id": 7942,
+                    "dateFound": "5/20/2019",
+                    "name": "Mike Pence"
+                },
+                {
+                    "id": 13542,
+                    "dateFound": "5/20/2019",
+                    "name": "Beto O'Rourke"
+                },
+                {
+                    "id": 15347,
+                    "dateFound": "5/20/2019",
+                    "name": "Tulsi Gabbard"
+                },
+                {
+                    "id": 7939,
+                    "dateFound": "5/20/2019",
+                    "name": "John Kasich"
+                },
+                {
+                    "id": 7944,
+                    "dateFound": "5/20/2019",
+                    "name": "Kirsten Gillibrand"
+                },
+                {
+                    "id": 7945,
+                    "dateFound": "5/20/2019",
+                    "name": "Andrew Cuomo"
+                },
+                {
+                    "id": 9072,
+                    "dateFound": "5/20/2019",
+                    "name": "Mark Cuban"
+                },
+                {
+                    "id": 9073,
+                    "dateFound": "5/20/2019",
+                    "name": "Mark Zuckerberg"
+                },
+                {
+                    "id": 9074,
+                    "dateFound": "5/20/2019",
+                    "name": "Amy Klobuchar"
+                },
+                {
+                    "id": 9075,
+                    "dateFound": "5/20/2019",
+                    "name": "Nikki Haley"
+                },
+                {
+                    "id": 9076,
+                    "dateFound": "5/20/2019",
+                    "name": "Paul Ryan"
+                },
+                {
+                    "id": 13872,
+                    "dateFound": "5/20/2019",
+                    "name": "Sherrod Brown"
+                },
+                {
+                    "id": 13873,
+                    "dateFound": "5/20/2019",
+                    "name": "Mike Bloomberg"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 3731,
+            "name": "Will Trump switch parties by Election Day 2020?",
+            "url": "https://www.predictit.org/markets/detail/3731/Will-Trump-switch-parties-by-Election-Day-2020",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 8030,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Trump switch parties by Election Day 2020?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4017,
+            "name": "Will Sherrod Brown run for president in 2020?",
+            "url": "https://www.predictit.org/markets/detail/4017/Will-Sherrod-Brown-run-for-president-in-2020",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 9082,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Sherrod Brown run for president in 2020?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4018,
+            "name": "Will Deval Patrick run for president in 2020?",
+            "url": "https://www.predictit.org/markets/detail/4018/Will-Deval-Patrick-run-for-president-in-2020",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 9083,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Deval Patrick run for president in 2020?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4019,
+            "name": "Will Terry McAuliffe run for president in 2020?",
+            "url": "https://www.predictit.org/markets/detail/4019/Will-Terry-McAuliffe-run-for-president-in-2020",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 9084,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Terry McAuliffe run for president in 2020?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4020,
+            "name": "Will Steve Bannon run for president in 2020?",
+            "url": "https://www.predictit.org/markets/detail/4020/Will-Steve-Bannon-run-for-president-in-2020",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 9085,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Steve Bannon run for president in 2020?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4021,
+            "name": "Will Howard Schultz run for president in 2020?",
+            "url": "https://www.predictit.org/markets/detail/4021/Will-Howard-Schultz-run-for-president-in-2020",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 9086,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Howard Schultz run for president in 2020?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4022,
+            "name": "Will Oprah Winfrey run for president in 2020?",
+            "url": "https://www.predictit.org/markets/detail/4022/Will-Oprah-Winfrey-run-for-president-in-2020",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 9087,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Oprah Winfrey run for president in 2020?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4036,
+            "name": "Will a woman be elected U.S. vice president in 2020?",
+            "url": "https://www.predictit.org/markets/detail/4036/Will-a-woman-be-elected-US-vice-president-in-2020",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 9149,
+                    "dateFound": "5/20/2019",
+                    "name": "Will a woman be elected U.S. vice president in 2020?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4037,
+            "name": "Will the 2020 Democratic nominee for vice president be a woman?",
+            "url": "https://www.predictit.org/markets/detail/4037/Will-the-2020-Democratic-nominee-for-vice-president-be-a-woman",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 9150,
+                    "dateFound": "5/20/2019",
+                    "name": "Will the 2020 Democratic nominee for vice president be a woman?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4038,
+            "name": "Will the 2020 Republican nominee for vice president be a woman?",
+            "url": "https://www.predictit.org/markets/detail/4038/Will-the-2020-Republican-nominee-for-vice-president-be-a-woman",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 9151,
+                    "dateFound": "5/20/2019",
+                    "name": "Will the 2020 Republican nominee for vice president be a woman?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4292,
+            "name": "Will there be a recession in Trump's 1st term?",
+            "url": "https://www.predictit.org/markets/detail/4292/Will-there-be-a-recession-in-Trump's-1st-term",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 10150,
+                    "dateFound": "5/20/2019",
+                    "name": "Will there be a recession in Trump's 1st term?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4319,
+            "name": "Will Donald Trump be impeached by year-end 2019?",
+            "url": "https://www.predictit.org/markets/detail/4319/Will-Donald-Trump-be-impeached-by-year-end-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 10269,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Donald Trump be impeached by year-end 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4353,
+            "name": "What will be the balance of power in Congress after the 2020 election?",
+            "url": "https://www.predictit.org/markets/detail/4353/What-will-be-the-balance-of-power-in-Congress-after-the-2020-election",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 10414,
+                    "dateFound": "5/20/2019",
+                    "name": "D House, R Senate"
+                },
+                {
+                    "id": 10415,
+                    "dateFound": "5/20/2019",
+                    "name": "R House, R Senate"
+                },
+                {
+                    "id": 10413,
+                    "dateFound": "5/20/2019",
+                    "name": "D House, D Senate"
+                },
+                {
+                    "id": 10416,
+                    "dateFound": "5/20/2019",
+                    "name": "R House, D Senate"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4365,
+            "name": "Which party will control the House after 2020 election?",
+            "url": "https://www.predictit.org/markets/detail/4365/Which-party-will-control-the-House-after-2020-election",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 10461,
+                    "dateFound": "5/20/2019",
+                    "name": "Democratic"
+                },
+                {
+                    "id": 10463,
+                    "dateFound": "5/20/2019",
+                    "name": "Republican"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4366,
+            "name": "Which party will control the Senate after 2020 election?",
+            "url": "https://www.predictit.org/markets/detail/4366/Which-party-will-control-the-Senate-after-2020-election",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 10464,
+                    "dateFound": "5/20/2019",
+                    "name": "Republican"
+                },
+                {
+                    "id": 10462,
+                    "dateFound": "5/20/2019",
+                    "name": "Democratic"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4438,
+            "name": "Will Eric Holder run for president in 2020?",
+            "url": "https://www.predictit.org/markets/detail/4438/Will-Eric-Holder-run-for-president-in-2020",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 10775,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Eric Holder run for president in 2020?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4475,
+            "name": "Will Trump pardon himself by year-end 2019?",
+            "url": "https://www.predictit.org/markets/detail/4475/Will-Trump-pardon-himself-by-year-end-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 10930,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Trump pardon himself by year-end 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4614,
+            "name": "Will Hillary Clinton  run for president in 2020?",
+            "url": "https://www.predictit.org/markets/detail/4614/Will-Hillary-Clinton-run-for-president-in-2020",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 11451,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Hillary Clinton  run for president in 2020?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4627,
+            "name": "Who will be the next U.K. Conservative Party leader?",
+            "url": "https://www.predictit.org/markets/detail/4627/Who-will-be-the-next-UK-Conservative-Party-leader",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 11506,
+                    "dateFound": "5/20/2019",
+                    "name": "Boris Johnson"
+                },
+                {
+                    "id": 11505,
+                    "dateFound": "5/20/2019",
+                    "name": "Dominic Raab"
+                },
+                {
+                    "id": 11508,
+                    "dateFound": "5/20/2019",
+                    "name": "Michael Gove"
+                },
+                {
+                    "id": 11509,
+                    "dateFound": "5/20/2019",
+                    "name": "Sajid Javid"
+                },
+                {
+                    "id": 11510,
+                    "dateFound": "5/20/2019",
+                    "name": "Jeremy Hunt"
+                },
+                {
+                    "id": 11507,
+                    "dateFound": "5/20/2019",
+                    "name": "Jacob Rees-Mogg"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4632,
+            "name": "Will Michelle Obama run for president in 2020?",
+            "url": "https://www.predictit.org/markets/detail/4632/Will-Michelle-Obama-run-for-president-in-2020",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 11534,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Michelle Obama run for president in 2020?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4642,
+            "name": "Who will succeed Draghi as ECB president?",
+            "url": "https://www.predictit.org/markets/detail/4642/Who-will-succeed-Draghi-as-ECB-president",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 11563,
+                    "dateFound": "5/20/2019",
+                    "name": "Erkki Liikanen"
+                },
+                {
+                    "id": 11568,
+                    "dateFound": "5/20/2019",
+                    "name": "François de Galhau"
+                },
+                {
+                    "id": 11564,
+                    "dateFound": "5/20/2019",
+                    "name": "Jens Weidmann"
+                },
+                {
+                    "id": 14203,
+                    "dateFound": "5/20/2019",
+                    "name": "Benoit Coeure"
+                },
+                {
+                    "id": 11565,
+                    "dateFound": "5/20/2019",
+                    "name": "Olli Rehn"
+                },
+                {
+                    "id": 11567,
+                    "dateFound": "5/20/2019",
+                    "name": "Philip Lane"
+                },
+                {
+                    "id": 14202,
+                    "dateFound": "5/20/2019",
+                    "name": "Christine Lagarde"
+                },
+                {
+                    "id": 11566,
+                    "dateFound": "5/20/2019",
+                    "name": "Klaas Knot"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4682,
+            "name": "Will Michael Avenatti run for president in 2020?",
+            "url": "https://www.predictit.org/markets/detail/4682/Will-Michael-Avenatti-run-for-president-in-2020",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 11712,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Michael Avenatti run for president in 2020?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4683,
+            "name": "Will the US economy hit 5.0%+ GDP growth by year-end 2020?",
+            "url": "https://www.predictit.org/markets/detail/4683/Will-the-US-economy-hit-50-GDP-growth-by-year-end-2020",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 11713,
+                    "dateFound": "5/20/2019",
+                    "name": "Will the US economy hit 5.0%+ GDP growth by year-end 2020?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4703,
+            "name": "Who will be the next justice to leave the Supreme Court?",
+            "url": "https://www.predictit.org/markets/detail/4703/Who-will-be-the-next-justice-to-leave-the-Supreme-Court",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 11786,
+                    "dateFound": "5/20/2019",
+                    "name": "Ruth Bader Ginsburg"
+                },
+                {
+                    "id": 11787,
+                    "dateFound": "5/20/2019",
+                    "name": "Clarence Thomas"
+                },
+                {
+                    "id": 11785,
+                    "dateFound": "5/20/2019",
+                    "name": "Stephen Breyer"
+                },
+                {
+                    "id": 11782,
+                    "dateFound": "5/20/2019",
+                    "name": "Sonia Sotomayor"
+                },
+                {
+                    "id": 11784,
+                    "dateFound": "5/20/2019",
+                    "name": "John Roberts"
+                },
+                {
+                    "id": 11788,
+                    "dateFound": "5/20/2019",
+                    "name": "Neil Gorsuch"
+                },
+                {
+                    "id": 11781,
+                    "dateFound": "5/20/2019",
+                    "name": "Elena Kagan"
+                },
+                {
+                    "id": 11783,
+                    "dateFound": "5/20/2019",
+                    "name": "Samuel Alito"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4771,
+            "name": "Which of these 5 European leaders will leave office next?",
+            "url": "https://www.predictit.org/markets/detail/4771/Which-of-these-5-European-leaders-will-leave-office-next",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 12075,
+                    "dateFound": "5/20/2019",
+                    "name": "May, PM UK"
+                },
+                {
+                    "id": 12073,
+                    "dateFound": "5/20/2019",
+                    "name": "Conte, PM Italy"
+                },
+                {
+                    "id": 12072,
+                    "dateFound": "5/20/2019",
+                    "name": "Merkel, Ch. Germany"
+                },
+                {
+                    "id": 12071,
+                    "dateFound": "5/20/2019",
+                    "name": "Macron, Pres. France"
+                },
+                {
+                    "id": 12074,
+                    "dateFound": "5/20/2019",
+                    "name": "Sánchez, PM Spain"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4871,
+            "name": "Will Labor Party provide Australia's PM following the 2019 federal election?",
+            "url": "https://www.predictit.org/markets/detail/4871/Will-Labor-Party-provide-Australia's-PM-following-the-2019-federal-election",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 12506,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Labor Party provide Australia's PM following the 2019 federal election?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4911,
+            "name": "Will Kanye West run for president in 2020?",
+            "url": "https://www.predictit.org/markets/detail/4911/Will-Kanye-West-run-for-president-in-2020",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 12645,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Kanye West run for president in 2020?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4916,
+            "name": "Will Congress ratify the USMCA by year-end 2019?",
+            "url": "https://www.predictit.org/markets/detail/4916/Will-Congress-ratify-the-USMCA-by-year-end-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 12664,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Congress ratify the USMCA by year-end 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4920,
+            "name": "Will  Lindsey Graham be confirmed as Attorney General by year-end 2019?",
+            "url": "https://www.predictit.org/markets/detail/4920/Will-Lindsey-Graham-be-confirmed-as-Attorney-General-by-year-end-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 12680,
+                    "dateFound": "5/20/2019",
+                    "name": "Will  Lindsey Graham be confirmed as Attorney General by year-end 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4928,
+            "name": "Will Trump's next Supreme Court nominee be a woman?",
+            "url": "https://www.predictit.org/markets/detail/4928/Will-Trump's-next-Supreme-Court-nominee-be-a-woman",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 12712,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Trump's next Supreme Court nominee be a woman?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4929,
+            "name": "Will Brett Kavanaugh be impeached by year-end 2019?",
+            "url": "https://www.predictit.org/markets/detail/4929/Will-Brett-Kavanaugh-be-impeached-by-year-end-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 12713,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Brett Kavanaugh be impeached by year-end 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4930,
+            "name": "Who will be Trump's next Supreme Court nominee?",
+            "url": "https://www.predictit.org/markets/detail/4930/Who-will-be-Trump's-next-Supreme-Court-nominee",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 12739,
+                    "dateFound": "5/20/2019",
+                    "name": "Amy Coney Barrett"
+                },
+                {
+                    "id": 12719,
+                    "dateFound": "5/20/2019",
+                    "name": "Thomas Hardiman"
+                },
+                {
+                    "id": 12727,
+                    "dateFound": "5/20/2019",
+                    "name": "Amul Thapar"
+                },
+                {
+                    "id": 12738,
+                    "dateFound": "5/20/2019",
+                    "name": "Britt Grant"
+                },
+                {
+                    "id": 12715,
+                    "dateFound": "5/20/2019",
+                    "name": "Charles Canady"
+                },
+                {
+                    "id": 12720,
+                    "dateFound": "5/20/2019",
+                    "name": "Raymond Kethledge"
+                },
+                {
+                    "id": 12733,
+                    "dateFound": "5/20/2019",
+                    "name": "Joan Larsen"
+                },
+                {
+                    "id": 12730,
+                    "dateFound": "5/20/2019",
+                    "name": "Diane Sykes"
+                },
+                {
+                    "id": 12714,
+                    "dateFound": "5/20/2019",
+                    "name": "Merrick Garland"
+                },
+                {
+                    "id": 12716,
+                    "dateFound": "5/20/2019",
+                    "name": "Steven Colloton"
+                },
+                {
+                    "id": 12717,
+                    "dateFound": "5/20/2019",
+                    "name": "Allison Eid"
+                },
+                {
+                    "id": 12718,
+                    "dateFound": "5/20/2019",
+                    "name": "Raymond Gruender"
+                },
+                {
+                    "id": 12721,
+                    "dateFound": "5/20/2019",
+                    "name": "Mike Lee"
+                },
+                {
+                    "id": 12722,
+                    "dateFound": "5/20/2019",
+                    "name": "Thomas Lee"
+                },
+                {
+                    "id": 12723,
+                    "dateFound": "5/20/2019",
+                    "name": "Edward Mansfield"
+                },
+                {
+                    "id": 12724,
+                    "dateFound": "5/20/2019",
+                    "name": "Federico Moreno"
+                },
+                {
+                    "id": 12725,
+                    "dateFound": "5/20/2019",
+                    "name": "William Pryor"
+                },
+                {
+                    "id": 12726,
+                    "dateFound": "5/20/2019",
+                    "name": "Margaret A. Ryan"
+                },
+                {
+                    "id": 12728,
+                    "dateFound": "5/20/2019",
+                    "name": "Timothy Tymkovich"
+                },
+                {
+                    "id": 12729,
+                    "dateFound": "5/20/2019",
+                    "name": "David Stras"
+                },
+                {
+                    "id": 12731,
+                    "dateFound": "5/20/2019",
+                    "name": "Don Willett"
+                },
+                {
+                    "id": 12732,
+                    "dateFound": "5/20/2019",
+                    "name": "Robert Young"
+                },
+                {
+                    "id": 12734,
+                    "dateFound": "5/20/2019",
+                    "name": "Keith Blackwell"
+                },
+                {
+                    "id": 12735,
+                    "dateFound": "5/20/2019",
+                    "name": "Lindsey Graham"
+                },
+                {
+                    "id": 12736,
+                    "dateFound": "5/20/2019",
+                    "name": "Paul Clement"
+                },
+                {
+                    "id": 12737,
+                    "dateFound": "5/20/2019",
+                    "name": "Kevin Newsom"
+                },
+                {
+                    "id": 12740,
+                    "dateFound": "5/20/2019",
+                    "name": "Patrick Wyrick"
+                },
+                {
+                    "id": 12741,
+                    "dateFound": "5/20/2019",
+                    "name": "Andrew Napolitano"
+                },
+                {
+                    "id": 12742,
+                    "dateFound": "5/20/2019",
+                    "name": "Jeanine Pirro"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4936,
+            "name": "Who will be next Senate-confirmed U.N. Ambassador?",
+            "url": "https://www.predictit.org/markets/detail/4936/Who-will-be-next-Senate-confirmed-UN-Ambassador",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 12785,
+                    "dateFound": "5/20/2019",
+                    "name": "Kelly Craft"
+                },
+                {
+                    "id": 12786,
+                    "dateFound": "5/20/2019",
+                    "name": "Richard Grenell"
+                },
+                {
+                    "id": 12784,
+                    "dateFound": "5/20/2019",
+                    "name": "Ivanka Trump"
+                },
+                {
+                    "id": 12787,
+                    "dateFound": "5/20/2019",
+                    "name": "Dina Powell"
+                },
+                {
+                    "id": 12804,
+                    "dateFound": "5/20/2019",
+                    "name": "Heather Nauert"
+                },
+                {
+                    "id": 12805,
+                    "dateFound": "5/20/2019",
+                    "name": "Joe Lieberman"
+                },
+                {
+                    "id": 12806,
+                    "dateFound": "5/20/2019",
+                    "name": "Jon Huntsman"
+                },
+                {
+                    "id": 12842,
+                    "dateFound": "5/20/2019",
+                    "name": "Jamie McCourt"
+                },
+                {
+                    "id": 12843,
+                    "dateFound": "5/20/2019",
+                    "name": "Kelly Ayotte"
+                },
+                {
+                    "id": 12844,
+                    "dateFound": "5/20/2019",
+                    "name": "Kay Bailey Hutchison"
+                },
+                {
+                    "id": 12845,
+                    "dateFound": "5/20/2019",
+                    "name": "Nancy Brinker"
+                },
+                {
+                    "id": 14349,
+                    "dateFound": "5/20/2019",
+                    "name": "John James"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4940,
+            "name": "Will Mitch Landrieu  file to run for president by 1/31/20?",
+            "url": "https://www.predictit.org/markets/detail/4940/Will-Mitch-Landrieu-file-to-run-for-president-by-1-31-20",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 12803,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Mitch Landrieu  file to run for president by 1/31/20?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4964,
+            "name": "Will Bashar al-Assad be president of Syria on Dec. 31, 2019?",
+            "url": "https://www.predictit.org/markets/detail/4964/Will-Bashar-al-Assad-be-president-of-Syria-on-Dec-31,-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 12923,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Bashar al-Assad be president of Syria on Dec. 31, 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4965,
+            "name": "Will Nicolás Maduro be president of Venezuela on Dec. 31, 2019?",
+            "url": "https://www.predictit.org/markets/detail/4965/Will-Nicolás-Maduro-be-president-of-Venezuela-on-Dec-31,-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 12924,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Nicolás Maduro be president of Venezuela on Dec. 31, 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4968,
+            "name": "Will Muhammadu Buhari be re-elected president of Nigeria in 2019?",
+            "url": "https://www.predictit.org/markets/detail/4968/Will-Muhammadu-Buhari-be-re-elected-president-of-Nigeria-in-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 12933,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Muhammadu Buhari be re-elected president of Nigeria in 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4971,
+            "name": "Will India's Bharatiya Janata Party win more seats than in 2014?",
+            "url": "https://www.predictit.org/markets/detail/4971/Will-India's-Bharatiya-Janata-Party-win-more-seats-than-in-2014",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 12944,
+                    "dateFound": "5/20/2019",
+                    "name": "Will India's Bharatiya Janata Party win more seats than in 2014?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4972,
+            "name": "Will U.S. have a monthly trade surplus with China by year-end 2019?",
+            "url": "https://www.predictit.org/markets/detail/4972/Will-US-have-a-monthly-trade-surplus-with-China-by-year-end-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 12945,
+                    "dateFound": "5/20/2019",
+                    "name": "Will U.S. have a monthly trade surplus with China by year-end 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4973,
+            "name": "Will there be a recession in the U.S. by year-end 2019?",
+            "url": "https://www.predictit.org/markets/detail/4973/Will-there-be-a-recession-in-the-US-by-year-end-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 12946,
+                    "dateFound": "5/20/2019",
+                    "name": "Will there be a recession in the U.S. by year-end 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4979,
+            "name": "Will Iran's Rouhani be impeached and out by year-end 2019?",
+            "url": "https://www.predictit.org/markets/detail/4979/Will-Iran's-Rouhani-be-impeached-and-out-by-year-end-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 12971,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Iran's Rouhani be impeached and out by year-end 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4980,
+            "name": "Will Mohammed bin Salman be out as Saudi Crown Prince by year-end 2019?",
+            "url": "https://www.predictit.org/markets/detail/4980/Will-Mohammed-bin-Salman-be-out-as-Saudi-Crown-Prince-by-year-end-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 12972,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Mohammed bin Salman be out as Saudi Crown Prince by year-end 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4984,
+            "name": "Will Germany's Bundestag be dissolved by year-end 2019?",
+            "url": "https://www.predictit.org/markets/detail/4984/Will-Germany's-Bundestag-be-dissolved-by-year-end-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 12994,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Germany's Bundestag be dissolved by year-end 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4985,
+            "name": "Will Italy's parliament be dissolved by year-end 2019?",
+            "url": "https://www.predictit.org/markets/detail/4985/Will-Italy's-parliament-be-dissolved-by-year-end-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 12995,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Italy's parliament be dissolved by year-end 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 4995,
+            "name": "Will NASA find 2019’s global average temperature highest on record?",
+            "url": "https://www.predictit.org/markets/detail/4995/Will-NASA-find-2019’s-global-average-temperature-highest-on-record",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 13029,
+                    "dateFound": "5/20/2019",
+                    "name": "Will NASA find 2019’s global average temperature highest on record?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5014,
+            "name": "Will Italy hold a referendum on EU membership by year-end 2019?",
+            "url": "https://www.predictit.org/markets/detail/5014/Will-Italy-hold-a-referendum-on-EU-membership-by-year-end-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 13098,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Italy hold a referendum on EU membership by year-end 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5024,
+            "name": "Will a Cabinet member be impeached in 2019?",
+            "url": "https://www.predictit.org/markets/detail/5024/Will-a-Cabinet-member-be-impeached-in-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 13151,
+                    "dateFound": "5/20/2019",
+                    "name": "Will a Cabinet member be impeached in 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5034,
+            "name": "Will Matthew Whitaker be impeached by the end of 2019?",
+            "url": "https://www.predictit.org/markets/detail/5034/Will-Matthew-Whitaker-be-impeached-by-the-end-of-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 13225,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Matthew Whitaker be impeached by the end of 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5060,
+            "name": "Will Tom Steyer file to run for president by 10/31/19?",
+            "url": "https://www.predictit.org/markets/detail/5060/Will-Tom-Steyer-file-to-run-for-president-by-10-31-19",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 13384,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Tom Steyer file to run for president by 10/31/19?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5070,
+            "name": "Will Trump pardon Manafort in 2019?",
+            "url": "https://www.predictit.org/markets/detail/5070/Will-Trump-pardon-Manafort-in-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 13434,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Trump pardon Manafort in 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5084,
+            "name": "Will Mike Bloomberg file to run for president by 10/31/19?",
+            "url": "https://www.predictit.org/markets/detail/5084/Will-Mike-Bloomberg-file-to-run-for-president-by-10-31-19",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 13488,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Mike Bloomberg file to run for president by 10/31/19?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5095,
+            "name": "Will Donald Trump, Jr. publicly testify before Congress in 2019?",
+            "url": "https://www.predictit.org/markets/detail/5095/Will-Donald-Trump,-Jr-publicly-testify-before-Congress-in-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 13559,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Donald Trump, Jr. publicly testify before Congress in 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5096,
+            "name": "Will Roger Stone publicly testify before Congress in 2019?",
+            "url": "https://www.predictit.org/markets/detail/5096/Will-Roger-Stone-publicly-testify-before-Congress-in-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 13560,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Roger Stone publicly testify before Congress in 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5097,
+            "name": "Will Jared Kushner publicly testify before Congress in 2019?",
+            "url": "https://www.predictit.org/markets/detail/5097/Will-Jared-Kushner-publicly-testify-before-Congress-in-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 13561,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Jared Kushner publicly testify before Congress in 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5114,
+            "name": "Will Bob Corker file to run for president by 10/31/19?",
+            "url": "https://www.predictit.org/markets/detail/5114/Will-Bob-Corker-file-to-run-for-president-by-10-31-19",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 13654,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Bob Corker file to run for president by 10/31/19?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5116,
+            "name": "Will South Carolina hold a Republican presidential primary in 2020?",
+            "url": "https://www.predictit.org/markets/detail/5116/Will-South-Carolina-hold-a-Republican-presidential-primary-in-2020",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 13662,
+                    "dateFound": "5/20/2019",
+                    "name": "Will South Carolina hold a Republican presidential primary in 2020?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5121,
+            "name": "Who will be the next Senate-confirmed Secretary of Defense?",
+            "url": "https://www.predictit.org/markets/detail/5121/Who-will-be-the-next-Senate-confirmed-Secretary-of-Defense",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 13686,
+                    "dateFound": "5/20/2019",
+                    "name": "Patrick Shanahan"
+                },
+                {
+                    "id": 13689,
+                    "dateFound": "5/20/2019",
+                    "name": "Jack Keane"
+                },
+                {
+                    "id": 13685,
+                    "dateFound": "5/20/2019",
+                    "name": "Jim Talent"
+                },
+                {
+                    "id": 13687,
+                    "dateFound": "5/20/2019",
+                    "name": "Lindsey Graham"
+                },
+                {
+                    "id": 13688,
+                    "dateFound": "5/20/2019",
+                    "name": "Tom Cotton"
+                },
+                {
+                    "id": 13690,
+                    "dateFound": "5/20/2019",
+                    "name": "Dan Coats"
+                },
+                {
+                    "id": 13742,
+                    "dateFound": "5/20/2019",
+                    "name": "Heather Wilson"
+                },
+                {
+                    "id": 13781,
+                    "dateFound": "5/20/2019",
+                    "name": "Jim Webb"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5127,
+            "name": "Will the Senate confirm a new Fed chair in 2019?",
+            "url": "https://www.predictit.org/markets/detail/5127/Will-the-Senate-confirm-a-new-Fed-chair-in-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 13714,
+                    "dateFound": "5/20/2019",
+                    "name": "Will the Senate confirm a new Fed chair in 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5140,
+            "name": "Will a federal charge against Donald Trump, Jr. be confirmed by Dec. 31, 2019?",
+            "url": "https://www.predictit.org/markets/detail/5140/Will-a-federal-charge-against-Donald-Trump,-Jr-be-confirmed-by-Dec-31,-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 13769,
+                    "dateFound": "5/20/2019",
+                    "name": "Will a federal charge against Donald Trump, Jr. be confirmed by Dec. 31, 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5141,
+            "name": "Will a federal charge against Andrew McCabe be confirmed by December 31, 2019?",
+            "url": "https://www.predictit.org/markets/detail/5141/Will-a-federal-charge-against-Andrew-McCabe-be-confirmed-by-December-31,-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 13770,
+                    "dateFound": "5/20/2019",
+                    "name": "Will a federal charge against Andrew McCabe be confirmed by December 31, 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5142,
+            "name": "Will a federal charge against Hillary Clinton be confirmed by December 31, 2019?",
+            "url": "https://www.predictit.org/markets/detail/5142/Will-a-federal-charge-against-Hillary-Clinton-be-confirmed-by-December-31,-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 13771,
+                    "dateFound": "5/20/2019",
+                    "name": "Will a federal charge against Hillary Clinton be confirmed by December 31, 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5143,
+            "name": "Will a federal charge against James Comey be confirmed by December 31, 2019?",
+            "url": "https://www.predictit.org/markets/detail/5143/Will-a-federal-charge-against-James-Comey-be-confirmed-by-December-31,-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 13772,
+                    "dateFound": "5/20/2019",
+                    "name": "Will a federal charge against James Comey be confirmed by December 31, 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5144,
+            "name": "Will a federal charge against Jared Kushner be confirmed by December 31, 2019?",
+            "url": "https://www.predictit.org/markets/detail/5144/Will-a-federal-charge-against-Jared-Kushner-be-confirmed-by-December-31,-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 13773,
+                    "dateFound": "5/20/2019",
+                    "name": "Will a federal charge against Jared Kushner be confirmed by December 31, 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5145,
+            "name": "Will a federal charge against Huma Abedin be confirmed by December 31, 2019?",
+            "url": "https://www.predictit.org/markets/detail/5145/Will-a-federal-charge-against-Huma-Abedin-be-confirmed-by-December-31,-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 13774,
+                    "dateFound": "5/20/2019",
+                    "name": "Will a federal charge against Huma Abedin be confirmed by December 31, 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5150,
+            "name": "Will Vladimir Putin be president of Russia at the end of 2019?",
+            "url": "https://www.predictit.org/markets/detail/5150/Will-Vladimir-Putin-be-president-of-Russia-at-the-end-of-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 13803,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Vladimir Putin be president of Russia at the end of 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5151,
+            "name": "Will Kim Jong Un be Supreme Leader of North Korea at the end of 2019?",
+            "url": "https://www.predictit.org/markets/detail/5151/Will-Kim-Jong-Un-be-Supreme-Leader-of-North-Korea-at-the-end-of-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 13804,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Kim Jong Un be Supreme Leader of North Korea at the end of 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5152,
+            "name": "Will Angela Merkel be German chancellor at the end of 2019?",
+            "url": "https://www.predictit.org/markets/detail/5152/Will-Angela-Merkel-be-German-chancellor-at-the-end-of-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 13805,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Angela Merkel be German chancellor at the end of 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5153,
+            "name": "Will Pope Francis vacate papacy by Dec. 31?",
+            "url": "https://www.predictit.org/markets/detail/5153/Will-Pope-Francis-vacate-papacy-by-Dec-31",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 13806,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Pope Francis vacate papacy by Dec. 31?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5154,
+            "name": "Will Shinzo Abe be prime minister of Japan at the end of 2019?",
+            "url": "https://www.predictit.org/markets/detail/5154/Will-Shinzo-Abe-be-prime-minister-of-Japan-at-the-end-of-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 13807,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Shinzo Abe be prime minister of Japan at the end of 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5155,
+            "name": "Will Theresa May be prime minister of the United Kingdom on 6/30?",
+            "url": "https://www.predictit.org/markets/detail/5155/Will-Theresa-May-be-prime-minister-of-the-United-Kingdom-on-6-30",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 13808,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Theresa May be prime minister of the United Kingdom on 6/30?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5156,
+            "name": "Will Netanyahu be indicted by June 30?",
+            "url": "https://www.predictit.org/markets/detail/5156/Will-Netanyahu-be-indicted-by-June-30",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 13809,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Netanyahu be indicted by June 30?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5158,
+            "name": "Will Donald Trump complete his first term?",
+            "url": "https://www.predictit.org/markets/detail/5158/Will-Donald-Trump-complete-his-first-term",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 13817,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Donald Trump complete his first term?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5166,
+            "name": "Will the 2020 Democratic nominee for president be 70+ on Election Day?",
+            "url": "https://www.predictit.org/markets/detail/5166/Will-the-2020-Democratic-nominee-for-president-be-70-on-Election-Day",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 13846,
+                    "dateFound": "5/20/2019",
+                    "name": "Will the 2020 Democratic nominee for president be 70+ on Election Day?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5170,
+            "name": "Will Trump provide oral testimony in Zervos defamation case in 2019?",
+            "url": "https://www.predictit.org/markets/detail/5170/Will-Trump-provide-oral-testimony-in-Zervos-defamation-case-in-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 13850,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Trump provide oral testimony in Zervos defamation case in 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5171,
+            "name": "How many tie-breaking Senate votes will Mike Pence cast in 2019?",
+            "url": "https://www.predictit.org/markets/detail/5171/How-many-tie-breaking-Senate-votes-will-Mike-Pence-cast-in-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 13854,
+                    "dateFound": "5/20/2019",
+                    "name": "2 or fewer"
+                },
+                {
+                    "id": 13853,
+                    "dateFound": "5/20/2019",
+                    "name": "3-4 votes"
+                },
+                {
+                    "id": 13856,
+                    "dateFound": "5/20/2019",
+                    "name": "5-6 votes"
+                },
+                {
+                    "id": 13857,
+                    "dateFound": "5/20/2019",
+                    "name": "7-8 votes"
+                },
+                {
+                    "id": 13852,
+                    "dateFound": "5/20/2019",
+                    "name": "9-10 votes"
+                },
+                {
+                    "id": 13855,
+                    "dateFound": "5/20/2019",
+                    "name": "11-12 votes"
+                },
+                {
+                    "id": 13851,
+                    "dateFound": "5/20/2019",
+                    "name": "13 or more"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5172,
+            "name": "How many vetoes will Trump issue in 2019?",
+            "url": "https://www.predictit.org/markets/detail/5172/How-many-vetoes-will-Trump-issue-in-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 13861,
+                    "dateFound": "5/20/2019",
+                    "name": "0 vetoes"
+                },
+                {
+                    "id": 13862,
+                    "dateFound": "5/20/2019",
+                    "name": "1 veto"
+                },
+                {
+                    "id": 13860,
+                    "dateFound": "5/20/2019",
+                    "name": "2 vetoes"
+                },
+                {
+                    "id": 13859,
+                    "dateFound": "5/20/2019",
+                    "name": "3 vetoes"
+                },
+                {
+                    "id": 13858,
+                    "dateFound": "5/20/2019",
+                    "name": "4 or more  vetoes"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5179,
+            "name": "Will Steve King be re-elected to the House from IA's 4th district?",
+            "url": "https://www.predictit.org/markets/detail/5179/Will-Steve-King-be-re-elected-to-the-House-from-IA's-4th-district",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 13911,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Steve King be re-elected to the House from IA's 4th district?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5203,
+            "name": "Will Larry Hogan file to run for president by 10/31/19?",
+            "url": "https://www.predictit.org/markets/detail/5203/Will-Larry-Hogan-file-to-run-for-president-by-10-31-19",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14051,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Larry Hogan file to run for president by 10/31/19?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5204,
+            "name": "Will the Senate pass Special Counsel Independence & Integrity Act in 2019?",
+            "url": "https://www.predictit.org/markets/detail/5204/Will-the-Senate-pass-Special-Counsel-Independence_Integrity-Act-in-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14052,
+                    "dateFound": "5/20/2019",
+                    "name": "Will the Senate pass Special Counsel Independence & Integrity Act in 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5205,
+            "name": "Which party will win 2019 House of Rep special election in PA's 12th district?",
+            "url": "https://www.predictit.org/markets/detail/5205/Which-party-will-win-2019-House-of-Rep-special-election-in-PA's-12th-district",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14053,
+                    "dateFound": "5/20/2019",
+                    "name": "Republican"
+                },
+                {
+                    "id": 14054,
+                    "dateFound": "5/20/2019",
+                    "name": "Democratic"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5211,
+            "name": "Will Trump pardon Stone in 2019?",
+            "url": "https://www.predictit.org/markets/detail/5211/Will-Trump-pardon-Stone-in-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14091,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Trump pardon Stone in 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5213,
+            "name": "Will Roger Stone be convicted of a federal charge in 2019?",
+            "url": "https://www.predictit.org/markets/detail/5213/Will-Roger-Stone-be-convicted-of-a-federal-charge-in-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14105,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Roger Stone be convicted of a federal charge in 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5225,
+            "name": "How many pardons will Trump issue in 2019?",
+            "url": "https://www.predictit.org/markets/detail/5225/How-many-pardons-will-Trump-issue-in-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14146,
+                    "dateFound": "5/20/2019",
+                    "name": "4 or fewer"
+                },
+                {
+                    "id": 14144,
+                    "dateFound": "5/20/2019",
+                    "name": "5-6"
+                },
+                {
+                    "id": 14145,
+                    "dateFound": "5/20/2019",
+                    "name": "7-8"
+                },
+                {
+                    "id": 14143,
+                    "dateFound": "5/20/2019",
+                    "name": "9-10"
+                },
+                {
+                    "id": 14142,
+                    "dateFound": "5/20/2019",
+                    "name": "11-12"
+                },
+                {
+                    "id": 14147,
+                    "dateFound": "5/20/2019",
+                    "name": "13 or more"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5226,
+            "name": "Will Alexandria Ocasio-Cortez win the Democratic primary for NY's 14th District?",
+            "url": "https://www.predictit.org/markets/detail/5226/Will-Alexandria-Ocasio-Cortez-win-the-Democratic-primary-for-NY's-14th-District",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14148,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Alexandria Ocasio-Cortez win the Democratic primary for NY's 14th District?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5233,
+            "name": "Will Benjamin Netanyahu be prime minister of Israel on June 30?",
+            "url": "https://www.predictit.org/markets/detail/5233/Will-Benjamin-Netanyahu-be-prime-minister-of-Israel-on-June-30",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14188,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Benjamin Netanyahu be prime minister of Israel on June 30?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5235,
+            "name": "Will Ralph Northam be impeached by June 30?",
+            "url": "https://www.predictit.org/markets/detail/5235/Will-Ralph-Northam-be-impeached-by-June-30",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14191,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Ralph Northam be impeached by June 30?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5241,
+            "name": "Who will win the 2020 Iowa Democratic caucuses?",
+            "url": "https://www.predictit.org/markets/detail/5241/Who-will-win-the-2020-Iowa-Democratic-caucuses",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14210,
+                    "dateFound": "5/20/2019",
+                    "name": "Joe Biden"
+                },
+                {
+                    "id": 14214,
+                    "dateFound": "5/20/2019",
+                    "name": "Bernie Sanders"
+                },
+                {
+                    "id": 14847,
+                    "dateFound": "5/20/2019",
+                    "name": "Pete Buttigieg"
+                },
+                {
+                    "id": 14215,
+                    "dateFound": "5/20/2019",
+                    "name": "Elizabeth Warren"
+                },
+                {
+                    "id": 14768,
+                    "dateFound": "5/20/2019",
+                    "name": "Andrew Yang"
+                },
+                {
+                    "id": 14212,
+                    "dateFound": "5/20/2019",
+                    "name": "Kamala Harris"
+                },
+                {
+                    "id": 14211,
+                    "dateFound": "5/20/2019",
+                    "name": "Beto O'Rourke"
+                },
+                {
+                    "id": 14271,
+                    "dateFound": "5/20/2019",
+                    "name": "Amy Klobuchar"
+                },
+                {
+                    "id": 14213,
+                    "dateFound": "5/20/2019",
+                    "name": "Cory Booker"
+                },
+                {
+                    "id": 14272,
+                    "dateFound": "5/20/2019",
+                    "name": "Sherrod Brown"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5247,
+            "name": "Will the Senate end the legislative filibuster (the \"nuclear option\") in 2019?",
+            "url": "https://www.predictit.org/markets/detail/5247/Will-the-Senate-end-the-legislative-filibuster-(the-nuclear-option)-in-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14233,
+                    "dateFound": "5/20/2019",
+                    "name": "Will the Senate end the legislative filibuster (the \"nuclear option\") in 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5248,
+            "name": "Will Trump pardon Don Jr. in 2019?",
+            "url": "https://www.predictit.org/markets/detail/5248/Will-Trump-pardon-Don-Jr-in-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14234,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Trump pardon Don Jr. in 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5249,
+            "name": "Will Trump pardon Michael Flynn in 2019?",
+            "url": "https://www.predictit.org/markets/detail/5249/Will-Trump-pardon-Michael-Flynn-in-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14235,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Trump pardon Michael Flynn in 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5250,
+            "name": "Will Trump pardon Jared Kushner in 2019?",
+            "url": "https://www.predictit.org/markets/detail/5250/Will-Trump-pardon-Jared-Kushner-in-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14236,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Trump pardon Jared Kushner in 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5253,
+            "name": "Which party will win the 2020 House of Reps race in Georgia's 7th district?",
+            "url": "https://www.predictit.org/markets/detail/5253/Which-party-will-win-the-2020-House-of-Reps-race-in-Georgia's-7th-district",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14248,
+                    "dateFound": "5/20/2019",
+                    "name": "Democratic"
+                },
+                {
+                    "id": 14249,
+                    "dateFound": "5/20/2019",
+                    "name": "Republican"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5257,
+            "name": "Which party will win 2019 House of Rep special election in NC's 3rd district?",
+            "url": "https://www.predictit.org/markets/detail/5257/Which-party-will-win-2019-House-of-Rep-special-election-in-NC's-3rd-district",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14273,
+                    "dateFound": "5/20/2019",
+                    "name": "Republican"
+                },
+                {
+                    "id": 14274,
+                    "dateFound": "5/20/2019",
+                    "name": "Democratic"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5266,
+            "name": "Which party will win the 2019 Kentucky gubernatorial race?",
+            "url": "https://www.predictit.org/markets/detail/5266/Which-party-will-win-the-2019-Kentucky-gubernatorial-race",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14316,
+                    "dateFound": "5/20/2019",
+                    "name": "Republican"
+                },
+                {
+                    "id": 14317,
+                    "dateFound": "5/20/2019",
+                    "name": "Democratic"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5267,
+            "name": "Which party will win the 2019 Louisiana gubernatorial race?",
+            "url": "https://www.predictit.org/markets/detail/5267/Which-party-will-win-the-2019-Louisiana-gubernatorial-race",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14318,
+                    "dateFound": "5/20/2019",
+                    "name": "Republican"
+                },
+                {
+                    "id": 14319,
+                    "dateFound": "5/20/2019",
+                    "name": "Democratic"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5271,
+            "name": "Will Donald Trump be named a winner of the 2019 Nobel Peace Prize?",
+            "url": "https://www.predictit.org/markets/detail/5271/Will-Donald-Trump-be-named-a-winner-of-the-2019-Nobel-Peace-Prize",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14341,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Donald Trump be named a winner of the 2019 Nobel Peace Prize?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5279,
+            "name": "Will the Senate pass Protecting Disaster Relief Funds Act by June 30?",
+            "url": "https://www.predictit.org/markets/detail/5279/Will-the-Senate-pass-Protecting-Disaster-Relief-Funds-Act-by-June-30",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14384,
+                    "dateFound": "5/20/2019",
+                    "name": "Will the Senate pass Protecting Disaster Relief Funds Act by June 30?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5281,
+            "name": "Will a federal charge against Matthew Whitaker be confirmed by Dec. 31, 2019?",
+            "url": "https://www.predictit.org/markets/detail/5281/Will-a-federal-charge-against-Matthew-Whitaker-be-confirmed-by-Dec-31,-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14386,
+                    "dateFound": "5/20/2019",
+                    "name": "Will a federal charge against Matthew Whitaker be confirmed by Dec. 31, 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5288,
+            "name": "Who will be the prime minister of Spain following the 2019 election?",
+            "url": "https://www.predictit.org/markets/detail/5288/Who-will-be-the-prime-minister-of-Spain-following-the-2019-election",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14423,
+                    "dateFound": "5/20/2019",
+                    "name": "Pedro Sánchez"
+                },
+                {
+                    "id": 14422,
+                    "dateFound": "5/20/2019",
+                    "name": "Pablo Casado"
+                },
+                {
+                    "id": 14424,
+                    "dateFound": "5/20/2019",
+                    "name": "Pablo Iglesias"
+                },
+                {
+                    "id": 14425,
+                    "dateFound": "5/20/2019",
+                    "name": "Albert Rivera"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5289,
+            "name": "Which party's candidate will next represent NC's 9th district?",
+            "url": "https://www.predictit.org/markets/detail/5289/Which-party's-candidate-will-next-represent-NC's-9th-district",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14426,
+                    "dateFound": "5/20/2019",
+                    "name": "Republican"
+                },
+                {
+                    "id": 14427,
+                    "dateFound": "5/20/2019",
+                    "name": "Democratic"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5306,
+            "name": "Will David Pecker publicly testify before Congress by May 31?",
+            "url": "https://www.predictit.org/markets/detail/5306/Will-David-Pecker-publicly-testify-before-Congress-by-May-31",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14532,
+                    "dateFound": "5/20/2019",
+                    "name": "Will David Pecker publicly testify before Congress by May 31?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5307,
+            "name": "Will Rhona Graff publicly testify before Congress by May 31?",
+            "url": "https://www.predictit.org/markets/detail/5307/Will-Rhona-Graff-publicly-testify-before-Congress-by-May-31",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14533,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Rhona Graff publicly testify before Congress by May 31?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5308,
+            "name": "Will Allen Weisselberg publicly testify before Congress by May 31?",
+            "url": "https://www.predictit.org/markets/detail/5308/Will-Allen-Weisselberg-publicly-testify-before-Congress-by-May-31",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14534,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Allen Weisselberg publicly testify before Congress by May 31?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5309,
+            "name": "Will Ivanka Trump publicly testify before Congress by May 31?",
+            "url": "https://www.predictit.org/markets/detail/5309/Will-Ivanka-Trump-publicly-testify-before-Congress-by-May-31",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14535,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Ivanka Trump publicly testify before Congress by May 31?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5313,
+            "name": "Will Sally Yates publicly testify before Congress by May 31?",
+            "url": "https://www.predictit.org/markets/detail/5313/Will-Sally-Yates-publicly-testify-before-Congress-by-May-31",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14557,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Sally Yates publicly testify before Congress by May 31?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5314,
+            "name": "Will John Kelly publicly testify before Congress by May 31?",
+            "url": "https://www.predictit.org/markets/detail/5314/Will-John-Kelly-publicly-testify-before-Congress-by-May-31",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14558,
+                    "dateFound": "5/20/2019",
+                    "name": "Will John Kelly publicly testify before Congress by May 31?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5315,
+            "name": "Will a new federal charge against Michael Cohen be confirmed by Dec. 31, 2019?",
+            "url": "https://www.predictit.org/markets/detail/5315/Will-a-new-federal-charge-against-Michael-Cohen-be-confirmed-by-Dec-31,-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14559,
+                    "dateFound": "5/20/2019",
+                    "name": "Will a new federal charge against Michael Cohen be confirmed by Dec. 31, 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5316,
+            "name": "Will Sean Hannity publicly testify before Congress by May 31?",
+            "url": "https://www.predictit.org/markets/detail/5316/Will-Sean-Hannity-publicly-testify-before-Congress-by-May-31",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14560,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Sean Hannity publicly testify before Congress by May 31?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5336,
+            "name": "How many seats will India's Bharatiya Janata Party win in 2019?",
+            "url": "https://www.predictit.org/markets/detail/5336/How-many-seats-will-India's-Bharatiya-Janata-Party-win-in-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14605,
+                    "dateFound": "5/20/2019",
+                    "name": "199 or fewer"
+                },
+                {
+                    "id": 14606,
+                    "dateFound": "5/20/2019",
+                    "name": "200 - 209"
+                },
+                {
+                    "id": 14607,
+                    "dateFound": "5/20/2019",
+                    "name": "210 - 219"
+                },
+                {
+                    "id": 14608,
+                    "dateFound": "5/20/2019",
+                    "name": "220 - 229"
+                },
+                {
+                    "id": 14604,
+                    "dateFound": "5/20/2019",
+                    "name": "230 or more"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5344,
+            "name": "Who will win the 2020 New Hampshire Democratic primary?",
+            "url": "https://www.predictit.org/markets/detail/5344/Who-will-win-the-2020-New-Hampshire-Democratic-primary",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14659,
+                    "dateFound": "5/20/2019",
+                    "name": "Joe Biden"
+                },
+                {
+                    "id": 14663,
+                    "dateFound": "5/20/2019",
+                    "name": "Bernie Sanders"
+                },
+                {
+                    "id": 14664,
+                    "dateFound": "5/20/2019",
+                    "name": "Elizabeth Warren"
+                },
+                {
+                    "id": 15157,
+                    "dateFound": "5/20/2019",
+                    "name": "Pete Buttigieg"
+                },
+                {
+                    "id": 14767,
+                    "dateFound": "5/20/2019",
+                    "name": "Andrew Yang"
+                },
+                {
+                    "id": 14661,
+                    "dateFound": "5/20/2019",
+                    "name": "Kamala Harris"
+                },
+                {
+                    "id": 14660,
+                    "dateFound": "5/20/2019",
+                    "name": "Beto O'Rourke"
+                },
+                {
+                    "id": 14662,
+                    "dateFound": "5/20/2019",
+                    "name": "Cory Booker"
+                },
+                {
+                    "id": 14665,
+                    "dateFound": "5/20/2019",
+                    "name": "Amy Klobuchar"
+                },
+                {
+                    "id": 14666,
+                    "dateFound": "5/20/2019",
+                    "name": "Kirsten Gillibrand"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5346,
+            "name": "Will Stacey Abrams file to run for president by 5/31/19?",
+            "url": "https://www.predictit.org/markets/detail/5346/Will-Stacey-Abrams-file-to-run-for-president-by-5-31-19",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14668,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Stacey Abrams file to run for president by 5/31/19?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5351,
+            "name": "Will Trump commute Manafort's sentence (without pardon) by May 31?",
+            "url": "https://www.predictit.org/markets/detail/5351/Will-Trump-commute-Manafort's-sentence-(without-pardon)-by-May-31",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14698,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Trump commute Manafort's sentence (without pardon) by May 31?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5358,
+            "name": "Who will be the prime minister of Canada following the 2019 election?",
+            "url": "https://www.predictit.org/markets/detail/5358/Who-will-be-the-prime-minister-of-Canada-following-the-2019-election",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14726,
+                    "dateFound": "5/20/2019",
+                    "name": "Justin Trudeau"
+                },
+                {
+                    "id": 14723,
+                    "dateFound": "5/20/2019",
+                    "name": "Andrew Scheer"
+                },
+                {
+                    "id": 14724,
+                    "dateFound": "5/20/2019",
+                    "name": "Jagmeet Singh"
+                },
+                {
+                    "id": 14725,
+                    "dateFound": "5/20/2019",
+                    "name": "Elizabeth May"
+                },
+                {
+                    "id": 14745,
+                    "dateFound": "5/20/2019",
+                    "name": "Maxime Bernier"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5376,
+            "name": "Will the GOP primary for 2019 NC-03 election go to a runoff?",
+            "url": "https://www.predictit.org/markets/detail/5376/Will-the-GOP-primary-for-2019-NC-03-election-go-to-a-runoff",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14819,
+                    "dateFound": "5/20/2019",
+                    "name": "Will the GOP primary for 2019 NC-03 election go to a runoff?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5380,
+            "name": "Will the UK officially exit the European Union between Apr 13 and  May 22?",
+            "url": "https://www.predictit.org/markets/detail/5380/Will-the-UK-officially-exit-the-European-Union-between-Apr-13-and-May-22",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14835,
+                    "dateFound": "5/20/2019",
+                    "name": "Will the UK officially exit the European Union between Apr 13 and  May 22?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5387,
+            "name": "Will James Comey publicly testify before Congress by May 31?",
+            "url": "https://www.predictit.org/markets/detail/5387/Will-James-Comey-publicly-testify-before-Congress-by-May-31",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14879,
+                    "dateFound": "5/20/2019",
+                    "name": "Will James Comey publicly testify before Congress by May 31?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5395,
+            "name": "Will Adam Schiff be House Intelligence Committee chairman on Dec. 31, 2019?",
+            "url": "https://www.predictit.org/markets/detail/5395/Will-Adam-Schiff-be-House-Intelligence-Committee-chairman-on-Dec-31,-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14922,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Adam Schiff be House Intelligence Committee chairman on Dec. 31, 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5396,
+            "name": "Who will be the prime minister of Finland following the 2019 election?",
+            "url": "https://www.predictit.org/markets/detail/5396/Who-will-be-the-prime-minister-of-Finland-following-the-2019-election",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14923,
+                    "dateFound": "5/20/2019",
+                    "name": "Antti Rinne"
+                },
+                {
+                    "id": 14924,
+                    "dateFound": "5/20/2019",
+                    "name": "Petteri Orpo"
+                },
+                {
+                    "id": 14925,
+                    "dateFound": "5/20/2019",
+                    "name": "Juha Sipilä"
+                },
+                {
+                    "id": 14926,
+                    "dateFound": "5/20/2019",
+                    "name": "Jussi Halla-aho"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5399,
+            "name": "How many of these Cabinet members will leave between 4/1 and 6/30?",
+            "url": "https://www.predictit.org/markets/detail/5399/How-many-of-these-Cabinet-members-will-leave-between-4-1-and-6-30",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14935,
+                    "dateFound": "5/20/2019",
+                    "name": "0 members"
+                },
+                {
+                    "id": 14936,
+                    "dateFound": "5/20/2019",
+                    "name": "1 member"
+                },
+                {
+                    "id": 14942,
+                    "dateFound": "5/20/2019",
+                    "name": "2 members"
+                },
+                {
+                    "id": 14940,
+                    "dateFound": "5/20/2019",
+                    "name": "3 members"
+                },
+                {
+                    "id": 14937,
+                    "dateFound": "5/20/2019",
+                    "name": "4 members"
+                },
+                {
+                    "id": 14939,
+                    "dateFound": "5/20/2019",
+                    "name": "5 members"
+                },
+                {
+                    "id": 14938,
+                    "dateFound": "5/20/2019",
+                    "name": "6 members"
+                },
+                {
+                    "id": 14941,
+                    "dateFound": "5/20/2019",
+                    "name": "7 or more members"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5408,
+            "name": "Will the Senate confirm Stephen Moore to Fed board in 2019?",
+            "url": "https://www.predictit.org/markets/detail/5408/Will-the-Senate-confirm-Stephen-Moore-to-Fed-board-in-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14990,
+                    "dateFound": "5/20/2019",
+                    "name": "Will the Senate confirm Stephen Moore to Fed board in 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5409,
+            "name": "Who will win the 2020 South Carolina Democratic primary?",
+            "url": "https://www.predictit.org/markets/detail/5409/Who-will-win-the-2020-South-Carolina-Democratic-primary",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 14991,
+                    "dateFound": "5/20/2019",
+                    "name": "Joe Biden"
+                },
+                {
+                    "id": 14993,
+                    "dateFound": "5/20/2019",
+                    "name": "Kamala Harris"
+                },
+                {
+                    "id": 14995,
+                    "dateFound": "5/20/2019",
+                    "name": "Bernie Sanders"
+                },
+                {
+                    "id": 14994,
+                    "dateFound": "5/20/2019",
+                    "name": "Cory Booker"
+                },
+                {
+                    "id": 14996,
+                    "dateFound": "5/20/2019",
+                    "name": "Elizabeth Warren"
+                },
+                {
+                    "id": 14999,
+                    "dateFound": "5/20/2019",
+                    "name": "Andrew Yang"
+                },
+                {
+                    "id": 15000,
+                    "dateFound": "5/20/2019",
+                    "name": "Pete Buttigieg"
+                },
+                {
+                    "id": 14992,
+                    "dateFound": "5/20/2019",
+                    "name": "Beto O'Rourke"
+                },
+                {
+                    "id": 14997,
+                    "dateFound": "5/20/2019",
+                    "name": "Amy Klobuchar"
+                },
+                {
+                    "id": 14998,
+                    "dateFound": "5/20/2019",
+                    "name": "Kirsten Gillibrand"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5413,
+            "name": "Will the Senate confirm Herman Cain to Fed board in 2019?",
+            "url": "https://www.predictit.org/markets/detail/5413/Will-the-Senate-confirm-Herman-Cain-to-Fed-board-in-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15022,
+                    "dateFound": "5/20/2019",
+                    "name": "Will the Senate confirm Herman Cain to Fed board in 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5414,
+            "name": "Will Trump meet with Kim Jong Un again in 2019?",
+            "url": "https://www.predictit.org/markets/detail/5414/Will-Trump-meet-with-Kim-Jong-Un-again-in-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15023,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Trump meet with Kim Jong Un again in 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5417,
+            "name": "Which among these Democrats will have highest RCP polling on May 31?",
+            "url": "https://www.predictit.org/markets/detail/5417/Which-among-these-Democrats-will-have-highest-RCP-polling-on-May-31",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15045,
+                    "dateFound": "5/20/2019",
+                    "name": "Elizabeth Warren"
+                },
+                {
+                    "id": 15042,
+                    "dateFound": "5/20/2019",
+                    "name": "Pete Buttigieg"
+                },
+                {
+                    "id": 15041,
+                    "dateFound": "5/20/2019",
+                    "name": "Amy Klobuchar"
+                },
+                {
+                    "id": 15043,
+                    "dateFound": "5/20/2019",
+                    "name": "Kirsten Gillibrand"
+                },
+                {
+                    "id": 15044,
+                    "dateFound": "5/20/2019",
+                    "name": "Andrew Yang"
+                },
+                {
+                    "id": 15046,
+                    "dateFound": "5/20/2019",
+                    "name": "Cory Booker"
+                },
+                {
+                    "id": 15047,
+                    "dateFound": "5/20/2019",
+                    "name": "Julian Castro"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5423,
+            "name": "Which of these 13 members of Trump’s Cabinet will leave next?",
+            "url": "https://www.predictit.org/markets/detail/5423/Which-of-these-13-members-of-Trump’s-Cabinet-will-leave-next",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15083,
+                    "dateFound": "5/20/2019",
+                    "name": "Rick Perry (Energy)"
+                },
+                {
+                    "id": 15087,
+                    "dateFound": "5/20/2019",
+                    "name": "Alex Acosta (Labor)"
+                },
+                {
+                    "id": 15089,
+                    "dateFound": "5/20/2019",
+                    "name": "Wilbur Ross (Comm.)"
+                },
+                {
+                    "id": 15081,
+                    "dateFound": "5/20/2019",
+                    "name": "Betsy DeVos (Edu.)"
+                },
+                {
+                    "id": 15090,
+                    "dateFound": "5/20/2019",
+                    "name": "S. Mnuchin (Treas.)"
+                },
+                {
+                    "id": 15093,
+                    "dateFound": "5/20/2019",
+                    "name": "William Barr (AG)"
+                },
+                {
+                    "id": 15082,
+                    "dateFound": "5/20/2019",
+                    "name": "Ben Carson (HUD)"
+                },
+                {
+                    "id": 15084,
+                    "dateFound": "5/20/2019",
+                    "name": "Mike Pompeo (State)"
+                },
+                {
+                    "id": 15086,
+                    "dateFound": "5/20/2019",
+                    "name": "Sonny Perdue (USDA)"
+                },
+                {
+                    "id": 15088,
+                    "dateFound": "5/20/2019",
+                    "name": "Alex Azar (HHS)"
+                },
+                {
+                    "id": 15091,
+                    "dateFound": "5/20/2019",
+                    "name": "Robert Wilkie (VA)"
+                },
+                {
+                    "id": 15085,
+                    "dateFound": "5/20/2019",
+                    "name": "Mike Pence (VP)"
+                },
+                {
+                    "id": 15092,
+                    "dateFound": "5/20/2019",
+                    "name": "Elaine Chao (DoT)"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5425,
+            "name": "Will Trump's Rasmussen approval ever be 55% or higher in 2019?",
+            "url": "https://www.predictit.org/markets/detail/5425/Will-Trump's-Rasmussen-approval-ever-be-55-or-higher-in-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15104,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Trump's Rasmussen approval ever be 55% or higher in 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5426,
+            "name": "Will Trump's Rasmussen approval ever be 39% or lower in 2019?",
+            "url": "https://www.predictit.org/markets/detail/5426/Will-Trump's-Rasmussen-approval-ever-be-39-or-lower-in-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15105,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Trump's Rasmussen approval ever be 39% or lower in 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5429,
+            "name": "Will the UK officially exit the European Union by Nov. 1?",
+            "url": "https://www.predictit.org/markets/detail/5429/Will-the-UK-officially-exit-the-European-Union-by-Nov-1",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15120,
+                    "dateFound": "5/20/2019",
+                    "name": "Will the UK officially exit the European Union by Nov. 1?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5431,
+            "name": "Will early elections in the U.K. be called by Jun. 30?",
+            "url": "https://www.predictit.org/markets/detail/5431/Will-early-elections-in-the-UK-be-called-by-Jun-30",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15128,
+                    "dateFound": "5/20/2019",
+                    "name": "Will early elections in the U.K. be called by Jun. 30?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5432,
+            "name": "Will the UK hold another Brexit referendum by Oct. 31?",
+            "url": "https://www.predictit.org/markets/detail/5432/Will-the-UK-hold-another-Brexit-referendum-by-Oct-31",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15129,
+                    "dateFound": "5/20/2019",
+                    "name": "Will the UK hold another Brexit referendum by Oct. 31?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5445,
+            "name": "Will Democrats win a majority in the Virginia House of Delegates in 2019?",
+            "url": "https://www.predictit.org/markets/detail/5445/Will-Democrats-win-a-majority-in-the-Virginia-House-of-Delegates-in-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15209,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Democrats win a majority in the Virginia House of Delegates in 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5446,
+            "name": "Will Democrats win a majority in the Virginia Senate in 2019?",
+            "url": "https://www.predictit.org/markets/detail/5446/Will-Democrats-win-a-majority-in-the-Virginia-Senate-in-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15210,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Democrats win a majority in the Virginia Senate in 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5451,
+            "name": "Will Don McGahn publicly testify before Congress by May 31?",
+            "url": "https://www.predictit.org/markets/detail/5451/Will-Don-McGahn-publicly-testify-before-Congress-by-May-31",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15245,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Don McGahn publicly testify before Congress by May 31?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5455,
+            "name": "Will the 2020 Democratic nominee for vice president be from a Trump-won state?",
+            "url": "https://www.predictit.org/markets/detail/5455/Will-the-2020-Democratic-nominee-for-vice-president-be-from-a-Trump-won-state",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15255,
+                    "dateFound": "5/20/2019",
+                    "name": "Will the 2020 Democratic nominee for vice president be from a Trump-won state?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5459,
+            "name": "Who will be EU Commission president following the 2019 election?",
+            "url": "https://www.predictit.org/markets/detail/5459/Who-will-be-EU-Commission-president-following-the-2019-election",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15277,
+                    "dateFound": "5/20/2019",
+                    "name": "Manfred Weber"
+                },
+                {
+                    "id": 15278,
+                    "dateFound": "5/20/2019",
+                    "name": "Michel Barnier"
+                },
+                {
+                    "id": 15280,
+                    "dateFound": "5/20/2019",
+                    "name": "Margrethe Vestager"
+                },
+                {
+                    "id": 15279,
+                    "dateFound": "5/20/2019",
+                    "name": "Frans Timmermans"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5460,
+            "name": "Will Macron's REM win more EU seats than Le Pen's RN?",
+            "url": "https://www.predictit.org/markets/detail/5460/Will-Macron's-REM-win-more-EU-seats-than-Le-Pen's-RN",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15281,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Macron's REM win more EU seats than Le Pen's RN?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5461,
+            "name": "Which UK party will win the most seats in the 2019 EU election?",
+            "url": "https://www.predictit.org/markets/detail/5461/Which-UK-party-will-win-the-most-seats-in-the-2019-EU-election",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15283,
+                    "dateFound": "5/20/2019",
+                    "name": "Brexit"
+                },
+                {
+                    "id": 15282,
+                    "dateFound": "5/20/2019",
+                    "name": "Labour"
+                },
+                {
+                    "id": 15284,
+                    "dateFound": "5/20/2019",
+                    "name": "Conservative"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5464,
+            "name": "What will the 2nd estimate of Q1 2019 GDP be?",
+            "url": "https://www.predictit.org/markets/detail/5464/What-will-the-2nd-estimate-of-Q1-2019-GDP-be",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15301,
+                    "dateFound": "5/20/2019",
+                    "name": "2.8% or lower"
+                },
+                {
+                    "id": 15299,
+                    "dateFound": "5/20/2019",
+                    "name": "2.9%"
+                },
+                {
+                    "id": 15302,
+                    "dateFound": "5/20/2019",
+                    "name": "3.0%"
+                },
+                {
+                    "id": 15303,
+                    "dateFound": "5/20/2019",
+                    "name": "3.1%"
+                },
+                {
+                    "id": 15300,
+                    "dateFound": "5/20/2019",
+                    "name": "3.2%"
+                },
+                {
+                    "id": 15297,
+                    "dateFound": "5/20/2019",
+                    "name": "3.3%"
+                },
+                {
+                    "id": 15296,
+                    "dateFound": "5/20/2019",
+                    "name": "3.4%"
+                },
+                {
+                    "id": 15298,
+                    "dateFound": "5/20/2019",
+                    "name": "3.5%"
+                },
+                {
+                    "id": 15295,
+                    "dateFound": "5/20/2019",
+                    "name": "3.6% or more"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5469,
+            "name": "Will Trump address British Parliament by June 5?",
+            "url": "https://www.predictit.org/markets/detail/5469/Will-Trump-address-British-Parliament-by-June-5",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15332,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Trump address British Parliament by June 5?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5471,
+            "name": "Will Seth Moulton participate in June 26-27 Democratic debate?",
+            "url": "https://www.predictit.org/markets/detail/5471/Will-Seth-Moulton-participate-in-June-26-27-Democratic-debate",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15340,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Seth Moulton participate in June 26-27 Democratic debate?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5472,
+            "name": "Will Wayne Messam participate in June 26-27 Democratic debate?",
+            "url": "https://www.predictit.org/markets/detail/5472/Will-Wayne-Messam-participate-in-June-26-27-Democratic-debate",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15341,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Wayne Messam participate in June 26-27 Democratic debate?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5473,
+            "name": "Will Marianne Williamson participate in June 26-27 Democratic debate?",
+            "url": "https://www.predictit.org/markets/detail/5473/Will-Marianne-Williamson-participate-in-June-26-27-Democratic-debate",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15342,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Marianne Williamson participate in June 26-27 Democratic debate?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5474,
+            "name": "Will Mike Gravel participate in June 26-27 Democratic debate?",
+            "url": "https://www.predictit.org/markets/detail/5474/Will-Mike-Gravel-participate-in-June-26-27-Democratic-debate",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15343,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Mike Gravel participate in June 26-27 Democratic debate?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5475,
+            "name": "Will Barr publicly testify before House Judiciary by May 31?",
+            "url": "https://www.predictit.org/markets/detail/5475/Will-Barr-publicly-testify-before-House-Judiciary-by-May-31",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15344,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Barr publicly testify before House Judiciary by May 31?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5476,
+            "name": "Will Mueller publicly testify before Senate  or House Judiciary by May 31?",
+            "url": "https://www.predictit.org/markets/detail/5476/Will-Mueller-publicly-testify-before-Senate-or-House-Judiciary-by-May-31",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15345,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Mueller publicly testify before Senate  or House Judiciary by May 31?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5477,
+            "name": "Will William Barr be Attorney General at year-end?",
+            "url": "https://www.predictit.org/markets/detail/5477/Will-William-Barr-be-Attorney-General-at-year-end",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15346,
+                    "dateFound": "5/20/2019",
+                    "name": "Will William Barr be Attorney General at year-end?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5480,
+            "name": "Will Scottish Parliament call for an independence referendum in 2019?",
+            "url": "https://www.predictit.org/markets/detail/5480/Will-Scottish-Parliament-call-for-an-independence-referendum-in-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15362,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Scottish Parliament call for an independence referendum in 2019?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5483,
+            "name": "Will Bill de Blasio participate in June 26-27 Democratic debate?",
+            "url": "https://www.predictit.org/markets/detail/5483/Will-Bill-de-Blasio-participate-in-June-26-27-Democratic-debate",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15380,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Bill de Blasio participate in June 26-27 Democratic debate?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5484,
+            "name": "Will Michael Bennet participate in June 26-27 Democratic debate?",
+            "url": "https://www.predictit.org/markets/detail/5484/Will-Michael-Bennet-participate-in-June-26-27-Democratic-debate",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15381,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Michael Bennet participate in June 26-27 Democratic debate?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5491,
+            "name": "Who will be 2nd place in 538's 2020 Endorsement Primary on 5/31?",
+            "url": "https://www.predictit.org/markets/detail/5491/Who-will-be-2nd-place-in-538's-2020-Endorsement-Primary-on-5-31",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15421,
+                    "dateFound": "5/20/2019",
+                    "name": "Cory Booker"
+                },
+                {
+                    "id": 15420,
+                    "dateFound": "5/20/2019",
+                    "name": "Kamala Harris"
+                },
+                {
+                    "id": 15418,
+                    "dateFound": "5/20/2019",
+                    "name": "Joe Biden"
+                },
+                {
+                    "id": 15422,
+                    "dateFound": "5/20/2019",
+                    "name": "Bernie Sanders"
+                },
+                {
+                    "id": 15423,
+                    "dateFound": "5/20/2019",
+                    "name": "Elizabeth Warren"
+                },
+                {
+                    "id": 15425,
+                    "dateFound": "5/20/2019",
+                    "name": "Pete Buttigieg"
+                },
+                {
+                    "id": 15426,
+                    "dateFound": "5/20/2019",
+                    "name": "Beto O'Rourke"
+                },
+                {
+                    "id": 15419,
+                    "dateFound": "5/20/2019",
+                    "name": "Julian Castro"
+                },
+                {
+                    "id": 15424,
+                    "dateFound": "5/20/2019",
+                    "name": "Amy Klobuchar"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5492,
+            "name": "Will Biden lead 538's 2020 Endorsement Primary on 5/31?",
+            "url": "https://www.predictit.org/markets/detail/5492/Will-Biden-lead-538's-2020-Endorsement-Primary-on-5-31",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15427,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Biden lead 538's 2020 Endorsement Primary on 5/31?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5495,
+            "name": "What will Sanders' RCP average support be at end of day May 31?",
+            "url": "https://www.predictit.org/markets/detail/5495/What-will-Sanders'-RCP-average-support-be-at-end-of-day-May-31",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15442,
+                    "dateFound": "5/20/2019",
+                    "name": "12.9% or lower"
+                },
+                {
+                    "id": 15446,
+                    "dateFound": "5/20/2019",
+                    "name": "13.0% - 13.9%"
+                },
+                {
+                    "id": 15443,
+                    "dateFound": "5/20/2019",
+                    "name": "14.0% - 14.9%"
+                },
+                {
+                    "id": 15448,
+                    "dateFound": "5/20/2019",
+                    "name": "15.0% - 15.9%"
+                },
+                {
+                    "id": 15445,
+                    "dateFound": "5/20/2019",
+                    "name": "16.0% - 16.9%"
+                },
+                {
+                    "id": 15444,
+                    "dateFound": "5/20/2019",
+                    "name": "17.0% - 17.9%"
+                },
+                {
+                    "id": 15447,
+                    "dateFound": "5/20/2019",
+                    "name": "18.0% or higher"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5496,
+            "name": "What will Biden's RCP average support be at end of day May 31?",
+            "url": "https://www.predictit.org/markets/detail/5496/What-will-Biden's-RCP-average-support-be-at-end-of-day-May-31",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15449,
+                    "dateFound": "5/20/2019",
+                    "name": "36.9% or lower"
+                },
+                {
+                    "id": 15453,
+                    "dateFound": "5/20/2019",
+                    "name": "37.0% - 37.9%"
+                },
+                {
+                    "id": 15450,
+                    "dateFound": "5/20/2019",
+                    "name": "38.0% - 38.9%"
+                },
+                {
+                    "id": 15455,
+                    "dateFound": "5/20/2019",
+                    "name": "39.0% - 39.9%"
+                },
+                {
+                    "id": 15452,
+                    "dateFound": "5/20/2019",
+                    "name": "40.0% - 40.9%"
+                },
+                {
+                    "id": 15451,
+                    "dateFound": "5/20/2019",
+                    "name": "41.0% - 41.9%"
+                },
+                {
+                    "id": 15454,
+                    "dateFound": "5/20/2019",
+                    "name": "42.0% or higher"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5499,
+            "name": "What will Buttigieg's RCP average support be at end of day May 31?",
+            "url": "https://www.predictit.org/markets/detail/5499/What-will-Buttigieg's-RCP-average-support-be-at-end-of-day-May-31",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15458,
+                    "dateFound": "5/20/2019",
+                    "name": "5.4% or lower"
+                },
+                {
+                    "id": 15462,
+                    "dateFound": "5/20/2019",
+                    "name": "5.5% - 5.9%"
+                },
+                {
+                    "id": 15459,
+                    "dateFound": "5/20/2019",
+                    "name": "6.0% - 6.4%"
+                },
+                {
+                    "id": 15464,
+                    "dateFound": "5/20/2019",
+                    "name": "6.5% - 6.9%"
+                },
+                {
+                    "id": 15461,
+                    "dateFound": "5/20/2019",
+                    "name": "7.0% - 7.4%"
+                },
+                {
+                    "id": 15460,
+                    "dateFound": "5/20/2019",
+                    "name": "7.5% - 7.9%"
+                },
+                {
+                    "id": 15463,
+                    "dateFound": "5/20/2019",
+                    "name": "8.0% or higher"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5500,
+            "name": "What will Warren's RCP average support be at end of day May 31?",
+            "url": "https://www.predictit.org/markets/detail/5500/What-will-Warren's-RCP-average-support-be-at-end-of-day-May-31",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15465,
+                    "dateFound": "5/20/2019",
+                    "name": "6.4% or lower"
+                },
+                {
+                    "id": 15471,
+                    "dateFound": "5/20/2019",
+                    "name": "6.5% - 6.9%"
+                },
+                {
+                    "id": 15468,
+                    "dateFound": "5/20/2019",
+                    "name": "7.0% - 7.4%"
+                },
+                {
+                    "id": 15467,
+                    "dateFound": "5/20/2019",
+                    "name": "7.5% - 7.9%"
+                },
+                {
+                    "id": 15466,
+                    "dateFound": "5/20/2019",
+                    "name": "8.0% - 8.4%"
+                },
+                {
+                    "id": 15469,
+                    "dateFound": "5/20/2019",
+                    "name": "8.5% - 8.9%"
+                },
+                {
+                    "id": 15470,
+                    "dateFound": "5/20/2019",
+                    "name": "9.0% or higher"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5501,
+            "name": "What will Trump's 538 job approval index be for May 31?",
+            "url": "https://www.predictit.org/markets/detail/5501/What-will-Trump's-538-job-approval-index-be-for-May-31",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15478,
+                    "dateFound": "5/20/2019",
+                    "name": "41.6% or lower"
+                },
+                {
+                    "id": 15476,
+                    "dateFound": "5/20/2019",
+                    "name": "41.7% - 41.9%"
+                },
+                {
+                    "id": 15473,
+                    "dateFound": "5/20/2019",
+                    "name": "42.0% - 42.2%"
+                },
+                {
+                    "id": 15474,
+                    "dateFound": "5/20/2019",
+                    "name": "42.3% - 42.5%"
+                },
+                {
+                    "id": 15475,
+                    "dateFound": "5/20/2019",
+                    "name": "42.6% - 42.8%"
+                },
+                {
+                    "id": 15477,
+                    "dateFound": "5/20/2019",
+                    "name": "42.9% - 43.1%"
+                },
+                {
+                    "id": 15472,
+                    "dateFound": "5/20/2019",
+                    "name": "43.2% or higher"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5502,
+            "name": "Will Roy Moore file to run for Senate by Sep. 30?",
+            "url": "https://www.predictit.org/markets/detail/5502/Will-Roy-Moore-file-to-run-for-Senate-by-Sep-30",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15479,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Roy Moore file to run for Senate by Sep. 30?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5503,
+            "name": "Who will be 3rd place in 538's 2020 Endorsement Primary on 5/31?",
+            "url": "https://www.predictit.org/markets/detail/5503/Who-will-be-3rd-place-in-538's-2020-Endorsement-Primary-on-5-31",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15482,
+                    "dateFound": "5/20/2019",
+                    "name": "Kamala Harris"
+                },
+                {
+                    "id": 15483,
+                    "dateFound": "5/20/2019",
+                    "name": "Cory Booker"
+                },
+                {
+                    "id": 15484,
+                    "dateFound": "5/20/2019",
+                    "name": "Bernie Sanders"
+                },
+                {
+                    "id": 15485,
+                    "dateFound": "5/20/2019",
+                    "name": "Elizabeth Warren"
+                },
+                {
+                    "id": 15486,
+                    "dateFound": "5/20/2019",
+                    "name": "Amy Klobuchar"
+                },
+                {
+                    "id": 15487,
+                    "dateFound": "5/20/2019",
+                    "name": "Pete Buttigieg"
+                },
+                {
+                    "id": 15480,
+                    "dateFound": "5/20/2019",
+                    "name": "Joe Biden"
+                },
+                {
+                    "id": 15481,
+                    "dateFound": "5/20/2019",
+                    "name": "Julian Castro"
+                },
+                {
+                    "id": 15488,
+                    "dateFound": "5/20/2019",
+                    "name": "Beto O'Rourke"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5506,
+            "name": "What will Trump's RCP average job approval be at end of day May 20?",
+            "url": "https://www.predictit.org/markets/detail/5506/What-will-Trump's-RCP-average-job-approval-be-at-end-of-day-May-20",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15503,
+                    "dateFound": "5/20/2019",
+                    "name": "44.1% or lower"
+                },
+                {
+                    "id": 15505,
+                    "dateFound": "5/20/2019",
+                    "name": "44.2% - 44.5%"
+                },
+                {
+                    "id": 15507,
+                    "dateFound": "5/20/2019",
+                    "name": "44.6% - 44.9%"
+                },
+                {
+                    "id": 15504,
+                    "dateFound": "5/20/2019",
+                    "name": "45.0% - 45.3%"
+                },
+                {
+                    "id": 15509,
+                    "dateFound": "5/20/2019",
+                    "name": "45.4% - 45.7%"
+                },
+                {
+                    "id": 15506,
+                    "dateFound": "5/20/2019",
+                    "name": "45.8% - 46.1%"
+                },
+                {
+                    "id": 15508,
+                    "dateFound": "5/20/2019",
+                    "name": "46.2% or higher"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5507,
+            "name": "Who will win the 2019 Kentucky Democratic gubernatorial primary?",
+            "url": "https://www.predictit.org/markets/detail/5507/Who-will-win-the-2019-Kentucky-Democratic-gubernatorial-primary",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15510,
+                    "dateFound": "5/20/2019",
+                    "name": "Andy Beshear"
+                },
+                {
+                    "id": 15512,
+                    "dateFound": "5/20/2019",
+                    "name": "Adam Edelen"
+                },
+                {
+                    "id": 15511,
+                    "dateFound": "5/20/2019",
+                    "name": "Rocky Adkins"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5508,
+            "name": "How many seats will Australia's Labor Party win in 2019?",
+            "url": "https://www.predictit.org/markets/detail/5508/How-many-seats-will-Australia's-Labor-Party-win-in-2019",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15514,
+                    "dateFound": "5/20/2019",
+                    "name": "69 or fewer"
+                },
+                {
+                    "id": 15515,
+                    "dateFound": "5/20/2019",
+                    "name": "70 - 71"
+                },
+                {
+                    "id": 15516,
+                    "dateFound": "5/20/2019",
+                    "name": "72 - 73"
+                },
+                {
+                    "id": 15517,
+                    "dateFound": "5/20/2019",
+                    "name": "74 - 75"
+                },
+                {
+                    "id": 15519,
+                    "dateFound": "5/20/2019",
+                    "name": "76 - 77"
+                },
+                {
+                    "id": 15518,
+                    "dateFound": "5/20/2019",
+                    "name": "78 - 79"
+                },
+                {
+                    "id": 15513,
+                    "dateFound": "5/20/2019",
+                    "name": "80 or more"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5509,
+            "name": "What will Trump's 538 job approval index be for May 21?",
+            "url": "https://www.predictit.org/markets/detail/5509/What-will-Trump's-538-job-approval-index-be-for-May-21",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15526,
+                    "dateFound": "5/20/2019",
+                    "name": "41.3% or lower"
+                },
+                {
+                    "id": 15525,
+                    "dateFound": "5/20/2019",
+                    "name": "41.4% - 41.6%"
+                },
+                {
+                    "id": 15524,
+                    "dateFound": "5/20/2019",
+                    "name": "41.7% - 41.9%"
+                },
+                {
+                    "id": 15521,
+                    "dateFound": "5/20/2019",
+                    "name": "42.0% - 42.2%"
+                },
+                {
+                    "id": 15522,
+                    "dateFound": "5/20/2019",
+                    "name": "42.3% - 42.5%"
+                },
+                {
+                    "id": 15523,
+                    "dateFound": "5/20/2019",
+                    "name": "42.6% - 42.8%"
+                },
+                {
+                    "id": 15520,
+                    "dateFound": "5/20/2019",
+                    "name": "42.9% or higher"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5510,
+            "name": "How many @realDonaldTrump tweets mention \"tariff\" noon 5/14 - noon 5/21?",
+            "url": "https://www.predictit.org/markets/detail/5510/How-many-@realDonaldTrump-tweets-mention-tariff-noon-5-14-noon-5-21",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15534,
+                    "dateFound": "5/20/2019",
+                    "name": "0 tweets"
+                },
+                {
+                    "id": 15533,
+                    "dateFound": "5/20/2019",
+                    "name": "1-2 tweets"
+                },
+                {
+                    "id": 15532,
+                    "dateFound": "5/20/2019",
+                    "name": "3-4 tweets"
+                },
+                {
+                    "id": 15531,
+                    "dateFound": "5/20/2019",
+                    "name": "5-6 tweets"
+                },
+                {
+                    "id": 15530,
+                    "dateFound": "5/20/2019",
+                    "name": "7-8 tweets"
+                },
+                {
+                    "id": 15529,
+                    "dateFound": "5/20/2019",
+                    "name": "9-10 tweets"
+                },
+                {
+                    "id": 15528,
+                    "dateFound": "5/20/2019",
+                    "name": "11-12 tweets"
+                },
+                {
+                    "id": 15535,
+                    "dateFound": "5/20/2019",
+                    "name": "13-14 tweets"
+                },
+                {
+                    "id": 15536,
+                    "dateFound": "5/20/2019",
+                    "name": "15-16 tweets"
+                },
+                {
+                    "id": 15527,
+                    "dateFound": "5/20/2019",
+                    "name": "17 or more"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5511,
+            "name": "How many @realDonaldTrump tweets mention \"collusion\" noon 5/14 - noon 5/21?",
+            "url": "https://www.predictit.org/markets/detail/5511/How-many-@realDonaldTrump-tweets-mention-collusion-noon-5-14-noon-5-21",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15544,
+                    "dateFound": "5/20/2019",
+                    "name": "0 tweets"
+                },
+                {
+                    "id": 15543,
+                    "dateFound": "5/20/2019",
+                    "name": "1-2 tweets"
+                },
+                {
+                    "id": 15542,
+                    "dateFound": "5/20/2019",
+                    "name": "3-4 tweets"
+                },
+                {
+                    "id": 15541,
+                    "dateFound": "5/20/2019",
+                    "name": "5-6 tweets"
+                },
+                {
+                    "id": 15540,
+                    "dateFound": "5/20/2019",
+                    "name": "7-8 tweets"
+                },
+                {
+                    "id": 15539,
+                    "dateFound": "5/20/2019",
+                    "name": "9-10 tweets"
+                },
+                {
+                    "id": 15538,
+                    "dateFound": "5/20/2019",
+                    "name": "11-12 tweets"
+                },
+                {
+                    "id": 15545,
+                    "dateFound": "5/20/2019",
+                    "name": "13-14 tweets"
+                },
+                {
+                    "id": 15546,
+                    "dateFound": "5/20/2019",
+                    "name": "15-16 tweets"
+                },
+                {
+                    "id": 15537,
+                    "dateFound": "5/20/2019",
+                    "name": "17 or more"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5512,
+            "name": "Will any @joebiden tweet mention \"Obama\" noon 5/14 - noon 5/21?",
+            "url": "https://www.predictit.org/markets/detail/5512/Will-any-@joebiden-tweet-mention-Obama-noon-5-14-noon-5-21",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15547,
+                    "dateFound": "5/20/2019",
+                    "name": "Will any @joebiden tweet mention \"Obama\" noon 5/14 - noon 5/21?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5513,
+            "name": "How many tweets will @realDonaldTrump post from noon May 15 to noon May 22?",
+            "url": "https://www.predictit.org/markets/detail/5513/How-many-tweets-will-@realDonaldTrump-post-from-noon-May-15-to-noon-May-22",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15554,
+                    "dateFound": "5/20/2019",
+                    "name": "119 or fewer"
+                },
+                {
+                    "id": 15552,
+                    "dateFound": "5/20/2019",
+                    "name": "120 - 129"
+                },
+                {
+                    "id": 15553,
+                    "dateFound": "5/20/2019",
+                    "name": "130 - 139"
+                },
+                {
+                    "id": 15551,
+                    "dateFound": "5/20/2019",
+                    "name": "140 - 149"
+                },
+                {
+                    "id": 15550,
+                    "dateFound": "5/20/2019",
+                    "name": "150 - 159"
+                },
+                {
+                    "id": 15549,
+                    "dateFound": "5/20/2019",
+                    "name": "160 - 169"
+                },
+                {
+                    "id": 15548,
+                    "dateFound": "5/20/2019",
+                    "name": "170 or more"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5514,
+            "name": "Will Trump's Rasmussen approval be 48% or higher on May 22?",
+            "url": "https://www.predictit.org/markets/detail/5514/Will-Trump's-Rasmussen-approval-be-48-or-higher-on-May-22",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15555,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Trump's Rasmussen approval be 48% or higher on May 22?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5515,
+            "name": "How many Yea votes will Shanahan receive in a confirmation vote by Aug. 31?",
+            "url": "https://www.predictit.org/markets/detail/5515/How-many-Yea-votes-will-Shanahan-receive-in-a-confirmation-vote-by-Aug-31",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15556,
+                    "dateFound": "5/20/2019",
+                    "name": "49 or fewer"
+                },
+                {
+                    "id": 15557,
+                    "dateFound": "5/20/2019",
+                    "name": "50"
+                },
+                {
+                    "id": 15564,
+                    "dateFound": "5/20/2019",
+                    "name": "51"
+                },
+                {
+                    "id": 15558,
+                    "dateFound": "5/20/2019",
+                    "name": "52"
+                },
+                {
+                    "id": 15563,
+                    "dateFound": "5/20/2019",
+                    "name": "53"
+                },
+                {
+                    "id": 15567,
+                    "dateFound": "5/20/2019",
+                    "name": "54"
+                },
+                {
+                    "id": 15566,
+                    "dateFound": "5/20/2019",
+                    "name": "55"
+                },
+                {
+                    "id": 15559,
+                    "dateFound": "5/20/2019",
+                    "name": "56"
+                },
+                {
+                    "id": 15565,
+                    "dateFound": "5/20/2019",
+                    "name": "57"
+                },
+                {
+                    "id": 15560,
+                    "dateFound": "5/20/2019",
+                    "name": "58"
+                },
+                {
+                    "id": 15561,
+                    "dateFound": "5/20/2019",
+                    "name": "59"
+                },
+                {
+                    "id": 15562,
+                    "dateFound": "5/20/2019",
+                    "name": "60 or more"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5516,
+            "name": "Will the Senate confirm a new DHS secretary by Aug. 31?",
+            "url": "https://www.predictit.org/markets/detail/5516/Will-the-Senate-confirm-a-new-DHS-secretary-by-Aug-31",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15568,
+                    "dateFound": "5/20/2019",
+                    "name": "Will the Senate confirm a new DHS secretary by Aug. 31?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5517,
+            "name": "Will the Senate confirm a new UN ambassador by Aug. 31?",
+            "url": "https://www.predictit.org/markets/detail/5517/Will-the-Senate-confirm-a-new-UN-ambassador-by-Aug-31",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15569,
+                    "dateFound": "5/20/2019",
+                    "name": "Will the Senate confirm a new UN ambassador by Aug. 31?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5518,
+            "name": "Will the Senate confirm a new SBA admin. by Aug. 31?",
+            "url": "https://www.predictit.org/markets/detail/5518/Will-the-Senate-confirm-a-new-SBA-admin-by-Aug-31",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15570,
+                    "dateFound": "5/20/2019",
+                    "name": "Will the Senate confirm a new SBA admin. by Aug. 31?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5519,
+            "name": "How many tweets will @whitehouse post from noon May 16 to noon May 23?",
+            "url": "https://www.predictit.org/markets/detail/5519/How-many-tweets-will-@whitehouse-post-from-noon-May-16-to-noon-May-23",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15571,
+                    "dateFound": "5/20/2019",
+                    "name": "129 or fewer"
+                },
+                {
+                    "id": 15573,
+                    "dateFound": "5/20/2019",
+                    "name": "130 - 139"
+                },
+                {
+                    "id": 15572,
+                    "dateFound": "5/20/2019",
+                    "name": "140 - 149"
+                },
+                {
+                    "id": 15574,
+                    "dateFound": "5/20/2019",
+                    "name": "150 - 159"
+                },
+                {
+                    "id": 15575,
+                    "dateFound": "5/20/2019",
+                    "name": "160 - 169"
+                },
+                {
+                    "id": 15576,
+                    "dateFound": "5/20/2019",
+                    "name": "170 - 179"
+                },
+                {
+                    "id": 15577,
+                    "dateFound": "5/20/2019",
+                    "name": "180 or more"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5520,
+            "name": "Will Obama endorse Biden by Dec. 31, according to 538?",
+            "url": "https://www.predictit.org/markets/detail/5520/Will-Obama-endorse-Biden-by-Dec-31,-according-to-538",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15578,
+                    "dateFound": "5/20/2019",
+                    "name": "Will Obama endorse Biden by Dec. 31, according to 538?"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5521,
+            "name": "Who will be next to testify publicly before Congress by June 30?",
+            "url": "https://www.predictit.org/markets/detail/5521/Who-will-be-next-to-testify-publicly-before-Congress-by-June-30",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15580,
+                    "dateFound": "5/20/2019",
+                    "name": "Steven Mnuchin"
+                },
+                {
+                    "id": 15581,
+                    "dateFound": "5/20/2019",
+                    "name": "Don McGahn"
+                },
+                {
+                    "id": 15587,
+                    "dateFound": "5/20/2019",
+                    "name": "Robert Mueller"
+                },
+                {
+                    "id": 15582,
+                    "dateFound": "5/20/2019",
+                    "name": "Donald Trump, Jr."
+                },
+                {
+                    "id": 15588,
+                    "dateFound": "5/20/2019",
+                    "name": "William Barr"
+                },
+                {
+                    "id": 15579,
+                    "dateFound": "5/20/2019",
+                    "name": "Rod Rosenstein"
+                },
+                {
+                    "id": 15583,
+                    "dateFound": "5/20/2019",
+                    "name": "John Kelly"
+                },
+                {
+                    "id": 15584,
+                    "dateFound": "5/20/2019",
+                    "name": "David Pecker"
+                },
+                {
+                    "id": 15585,
+                    "dateFound": "5/20/2019",
+                    "name": "Roger Stone"
+                },
+                {
+                    "id": 15586,
+                    "dateFound": "5/20/2019",
+                    "name": "Jared Kushner"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5522,
+            "name": "Who will win the 2020 Nevada Democratic caucuses?",
+            "url": "https://www.predictit.org/markets/detail/5522/Who-will-win-the-2020-Nevada-Democratic-caucuses",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15589,
+                    "dateFound": "5/20/2019",
+                    "name": "Joe Biden"
+                },
+                {
+                    "id": 15593,
+                    "dateFound": "5/20/2019",
+                    "name": "Bernie Sanders"
+                },
+                {
+                    "id": 15591,
+                    "dateFound": "5/20/2019",
+                    "name": "Kamala Harris"
+                },
+                {
+                    "id": 15594,
+                    "dateFound": "5/20/2019",
+                    "name": "Elizabeth Warren"
+                },
+                {
+                    "id": 15598,
+                    "dateFound": "5/20/2019",
+                    "name": "Pete Buttigieg"
+                },
+                {
+                    "id": 15590,
+                    "dateFound": "5/20/2019",
+                    "name": "Beto O'Rourke"
+                },
+                {
+                    "id": 15597,
+                    "dateFound": "5/20/2019",
+                    "name": "Andrew Yang"
+                },
+                {
+                    "id": 15592,
+                    "dateFound": "5/20/2019",
+                    "name": "Cory Booker"
+                },
+                {
+                    "id": 15595,
+                    "dateFound": "5/20/2019",
+                    "name": "Amy Klobuchar"
+                },
+                {
+                    "id": 15596,
+                    "dateFound": "5/20/2019",
+                    "name": "Tulsi Gabbard"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5523,
+            "name": "How many tweets will @vp post from noon 5/17 - noon 5/24?",
+            "url": "https://www.predictit.org/markets/detail/5523/How-many-tweets-will-@vp-post-from-noon-5-17-noon-5-24",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15599,
+                    "dateFound": "5/20/2019",
+                    "name": "39 or fewer"
+                },
+                {
+                    "id": 15605,
+                    "dateFound": "5/20/2019",
+                    "name": "40 - 44"
+                },
+                {
+                    "id": 15603,
+                    "dateFound": "5/20/2019",
+                    "name": "45 - 49"
+                },
+                {
+                    "id": 15602,
+                    "dateFound": "5/20/2019",
+                    "name": "50 - 54"
+                },
+                {
+                    "id": 15600,
+                    "dateFound": "5/20/2019",
+                    "name": "55 - 59"
+                },
+                {
+                    "id": 15604,
+                    "dateFound": "5/20/2019",
+                    "name": "60 - 64"
+                },
+                {
+                    "id": 15601,
+                    "dateFound": "5/20/2019",
+                    "name": "65 or more"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5524,
+            "name": "How many tweets will @potus post from noon 5/17 - noon 5/24?",
+            "url": "https://www.predictit.org/markets/detail/5524/How-many-tweets-will-@potus-post-from-noon-5-17-noon-5-24",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15606,
+                    "dateFound": "5/20/2019",
+                    "name": "64 or fewer"
+                },
+                {
+                    "id": 15609,
+                    "dateFound": "5/20/2019",
+                    "name": "65 - 69"
+                },
+                {
+                    "id": 15611,
+                    "dateFound": "5/20/2019",
+                    "name": "70 - 74"
+                },
+                {
+                    "id": 15610,
+                    "dateFound": "5/20/2019",
+                    "name": "75 - 79"
+                },
+                {
+                    "id": 15607,
+                    "dateFound": "5/20/2019",
+                    "name": "80 - 84"
+                },
+                {
+                    "id": 15608,
+                    "dateFound": "5/20/2019",
+                    "name": "85 - 89"
+                },
+                {
+                    "id": 15612,
+                    "dateFound": "5/20/2019",
+                    "name": "90 or more"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5525,
+            "name": "What will the margin be in the 2019 special election in PA's 12th District?",
+            "url": "https://www.predictit.org/markets/detail/5525/What-will-the-margin-be-in-the-2019-special-election-in-PA's-12th-District",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15619,
+                    "dateFound": "5/20/2019",
+                    "name": "0% - 15%"
+                },
+                {
+                    "id": 15614,
+                    "dateFound": "5/20/2019",
+                    "name": "15% - 20%"
+                },
+                {
+                    "id": 15615,
+                    "dateFound": "5/20/2019",
+                    "name": "20% - 25%"
+                },
+                {
+                    "id": 15616,
+                    "dateFound": "5/20/2019",
+                    "name": "25% - 30%"
+                },
+                {
+                    "id": 15617,
+                    "dateFound": "5/20/2019",
+                    "name": "30% - 35%"
+                },
+                {
+                    "id": 15613,
+                    "dateFound": "5/20/2019",
+                    "name": "35% - 40%"
+                },
+                {
+                    "id": 15618,
+                    "dateFound": "5/20/2019",
+                    "name": "40% or more"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5526,
+            "name": "What will the margin be in the 2019 Kentucky Dem gubernatorial primary?",
+            "url": "https://www.predictit.org/markets/detail/5526/What-will-the-margin-be-in-the-2019-Kentucky-Dem-gubernatorial-primary",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15626,
+                    "dateFound": "5/20/2019",
+                    "name": "0% - 10%"
+                },
+                {
+                    "id": 15620,
+                    "dateFound": "5/20/2019",
+                    "name": "10% - 15%"
+                },
+                {
+                    "id": 15621,
+                    "dateFound": "5/20/2019",
+                    "name": "15% - 20%"
+                },
+                {
+                    "id": 15622,
+                    "dateFound": "5/20/2019",
+                    "name": "20% - 25%"
+                },
+                {
+                    "id": 15623,
+                    "dateFound": "5/20/2019",
+                    "name": "25% - 30%"
+                },
+                {
+                    "id": 15624,
+                    "dateFound": "5/20/2019",
+                    "name": "30% - 35%"
+                },
+                {
+                    "id": 15625,
+                    "dateFound": "5/20/2019",
+                    "name": "35% or more"
+                }
+            ],
+            "status": "Open"
+        },
+        {
+            "id": 5527,
+            "name": "What will the margin be in the 2019 Kentucky GOP gubernatorial primary?",
+            "url": "https://www.predictit.org/markets/detail/5527/What-will-the-margin-be-in-the-2019-Kentucky-GOP-gubernatorial-primary",
+            "dateFound": "5/20/2019",
+            "dateEnd": "NA",
+            "contracts": [
+                {
+                    "id": 15633,
+                    "dateFound": "5/20/2019",
+                    "name": "0% - 20%"
+                },
+                {
+                    "id": 15629,
+                    "dateFound": "5/20/2019",
+                    "name": "20% - 25%"
+                },
+                {
+                    "id": 15630,
+                    "dateFound": "5/20/2019",
+                    "name": "25% - 30%"
+                },
+                {
+                    "id": 15631,
+                    "dateFound": "5/20/2019",
+                    "name": "30% - 35%"
+                },
+                {
+                    "id": 15628,
+                    "dateFound": "5/20/2019",
+                    "name": "35% - 40%"
+                },
+                {
+                    "id": 15627,
+                    "dateFound": "5/20/2019",
+                    "name": "40% - 45%"
+                },
+                {
+                    "id": 15632,
+                    "dateFound": "5/20/2019",
+                    "name": "45% or more"
+                }
+            ],
+            "status": "Open"
+        }
+    ]
+}
