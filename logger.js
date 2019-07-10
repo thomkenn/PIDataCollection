@@ -1,14 +1,12 @@
 var lastpi = null;
 var fs = require('fs');
+var firstrun = true;
 
-/*
+getPIdata();
+
 setInterval(function(){
 	getPIdata();
 },300000);
-*/
-
-getPIdata();
-getPIdata();
 
 function getPIdata () {
 	try {
@@ -32,12 +30,12 @@ function pilistener () {
 		lastpi = mydata;
     console.log("initial loop");
 		return;
-	}
+	};
 
 	//Write File
 	var d = new Date();
-	d = d.getFullYear() + "" + (d.getMonth() + 1) + d.getHours() + d.getMinutes();
-	fs.writeFile("C:\\Users\\thomp\\Desktop\\Discord Bot\\datastore\\" + d + '.json', json, function(err) { //set to local datapath
+	d = d.getFullYear() + "" + ((d.getMonth() + 1) > 9 ? (d.getMonth() + 1) : ("0" + (d.getMonth() + 1))) + (d.getDate() > 9 ? d.getDate() : ("0" + d.getDate())) + (d.getHours() > 9 ? d.getHours() : ("0" + d.getHours())) + (d.getMinutes() > 9 ? d.getMinutes() : ("0" + d.getMinutes()));
+	fs.writeFile("./datastore/" + d + '.json', json, function(err) { //set to local datapath
     if (err) throw err;
     console.log('complete');
 	});
@@ -65,7 +63,6 @@ function pilistener () {
 			updatemasterlist(mydata);
 			return;
 		}
-
 		/* Useless at the moment, will hit too many false positives.
 		for (innerinc in mydata.markets[increment].contracts) //Potentially useless
 		{
@@ -77,7 +74,11 @@ function pilistener () {
 		}
 		*/
 	}
-
+	if (firstrun == true)
+	{
+		updatemasterlist(mydata);
+		firstrun = false;
+	}
 
 	lastpi = mydata; // FINAL LINE
 };
@@ -86,38 +87,100 @@ function pilistener () {
 function updatemasterlist(mydata)
 {
 	var content;
-	fs.readFile("C:\\Users\\thomp\\Desktop\\Discord Bot\\datastore\\masterlist1.json", function read(err, data) {
+	fs.readFile("./datastore/masterlist.json", function read(err, data) {
 		content = data;
 		comparemasterlist(mydata, content);
-	}
+	});
 };
 
 function comparemasterlist(mydata, finaldata)
 {
 	finaldata = JSON.parse(finaldata);
+	var containid = 0;
+	var innercontainId = 0;
+	console.log("comparing");
 	for (increment in mydata.markets)
 	{
+		containid = -1;
 		for (masterinc in finaldata.markets)
 		{
-			if ()
-
+			if (mydata.markets[increment].id == finaldata.markets[masterinc].id)
+			{
+				containid = masterinc;
+				break;
+			};
+		};
+		if (containid == -1)
+		{
+				finaldata.markets.push(addTo(mydata.markets[increment]));
+				continue;
 		}
 		for (innerinc in mydata.markets[increment].contracts)
 		{
-
-
+			innercontainId = 0;
+			for (masterinc in finaldata.markets[containid].contracts)
+			{
+					if (mydata.markets[increment].contracts[innerinc].id == finaldata.markets[containid].contracts[masterinc].id)
+						{
+									innercontainId = 1;
+						}
+			}
+			if (innercontainId == 0)
+			{
+				finaldata.markets[containid].contracts.push(addTo(mydata.markets[increment].contracts[innerinc]));
+			};
 		}
-
 	}
-
-
-}
+	finaldata = JSON.stringify(finaldata, null, 4);
+	fs.writeFile("./datastore/masterlist.json", finaldata, function(err) { //set to local datapath
+		if (err) throw err;
+		console.log('complete update');
+	});
+};
 
 function addTo(contract)
 {
-
-
-}
+	var innertemp = {};
+	var finalized;
+	var d = new Date();
+	d = (d.getMonth() + 1) + "/" + d.getDate() + "/" + d.getFullYear();
+	if (contract.url == undefined)
+	{
+			console.log("Contract being added");
+			finalized = JSON.stringify({
+				id: contract.id,
+				dateFound: d,
+				name: contract.name
+			});
+			finalized = JSON.parse({finalized});
+	}
+	else {
+		console.log("market being added");
+		finalized = JSON.stringify({
+			id: contract.id,
+			name: contract.name,
+			url: contract.url,
+			dateFound: d,
+			dateEnd: "NA",
+			contracts: [],
+			status: contract.status,
+			resolved: "NA"
+			});
+			finalized = JSON.parse(finalized);
+			for (innerinc in contract.contracts)
+			{
+				innertemp = JSON.stringify({
+						id: contract.contracts[innerinc].id,
+						dateFound: d,
+						name: contract.contracts[innerinc].name
+				});
+				innertemp = JSON.parse(innertemp);
+				finalized.contracts.push(innertemp);
+		};
+	}
+	console.log(finalized);
+	return finalized;
+};
 	//initialize masterlist
 function initmasterlist(mydata)
 {
@@ -155,7 +218,7 @@ function initmasterlist(mydata)
 			masterlist.markets.push(temp);
 			masterlist = JSON.stringify(masterlist, null, 4);
 	}
-	fs.writeFile("C:\\Users\\thomp\\Desktop\\Discord Bot\\datastore\\masterlist1.json", masterlist, function(err) { //set to local datapath
+	fs.writeFile("./datastore/masterlist.json", masterlist, function(err) { //set to local datapath
     if (err) throw err;
     console.log('complete v2');
 	});
