@@ -2,10 +2,11 @@
 
 var client = require('scp2');
 var fs = require('fs');
+var count = 0;
 
 var serverconfig = {
     port: 22,
-    host: '35.237.158.169',
+    host: '35.237.158.169', 
     username: 'thompson134',
     privateKey: require("fs").readFileSync('./.ssh/id_rsa'),
     path: '/home/thompson134/datastore'
@@ -25,7 +26,17 @@ fs.readdir( '/home/pi/datastore', (error, files) => {
 			console.log('success');
 			remove(name);
 		}
-})
+	})
+   };
+   count += 1;
+   if (count == 200)
+   {
+		let maslist = '/home/pi/datastore/masterlist.json';
+		client.scp(maslist, serverconfig, (err) => {
+		if (!err) {
+			console.log('success');
+		};
+		count = 0;
    };
    console.log(totalFiles); // print the total number of files
 });
