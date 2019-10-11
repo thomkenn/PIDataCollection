@@ -1,4 +1,3 @@
-//take 1: see if we can move a file to the remote server
 
 var client = require('scp2');
 var fs = require('fs');
@@ -6,8 +5,8 @@ var count = 0;
 
 var serverconfig = {
     port: 22,
-    host: '35.237.158.169', 
-    username: 'thompson134',
+    host: 'your server here', 
+    username: 'your username here',
     privateKey: require("fs").readFileSync('./.ssh/id_rsa'),
     path: '/home/thompson134/datastore'
 };
