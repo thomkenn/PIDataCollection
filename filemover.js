@@ -48,12 +48,3 @@ function remove(name) {
 });
 };
 
-
-//client.upload('file.txt', '/home/thompson134/file.txt', function(err) { console.log("writing");});
-/*
-setTimeout(function(){
-client.scp('file.txt', 'thompson134@35.237.158.169:.', function(err) {
-	console.log("writing");
-});
-}, 5000);
-*/
